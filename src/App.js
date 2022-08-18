@@ -1,10 +1,11 @@
+import './App.less'
 
 function App() {
-  return (
-    <div className="App">
-      app2
-    </div>
-  );
+    return (
+        <div className="App">
+            <div></div>
+        </div>
+    );
 }
 
 export default App;
