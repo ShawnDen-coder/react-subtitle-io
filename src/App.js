@@ -4,13 +4,18 @@ import {
   AppstoreOutlined,
   MailOutlined,
   SettingOutlined,
+  HomeOutlined,
 } from "@ant-design/icons";
 
 const App = () => (
   <>
     <Row>
       <Col span={24}>
-        <Menu mode="horizontal" defaultSelectedKeys={["mail"]}>
+        <Menu mode="horizontal">
+          <Menu.Item key={"home"} icon={<HomeOutlined />}>
+            Home
+          </Menu.Item>
+
           <Menu.Item key="mail" icon={<MailOutlined />}>
             Navigation One
           </Menu.Item>
