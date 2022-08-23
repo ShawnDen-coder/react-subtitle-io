@@ -49,10 +49,21 @@ const SubtitleListEdit = () => {
     <ColumnHeightOutlined />,
   ];
 
+  const [color, setColor] = useState([0, 0, 0, 0]);
+
+  const onClick = () => {
+    setColor([0, 0, 0, 0.2]);
+    setTimeout(() => {
+      setColor([0, 0, 0, 0]);
+    }, 100);
+  };
+
   return (
     <>
       {iconsList.map((item) => (
-        <SubtitleListEditStyle>{item}</SubtitleListEditStyle>
+        <SubtitleListEditStyle color={color} onClick={onClick}>
+          {item}
+        </SubtitleListEditStyle>
       ))}
     </>
   );
@@ -80,9 +91,17 @@ export const SubtitleList = ({ rows }) => {
 };
 
 const SubtitleListHeaderStyle = styled.div`
+  position: relative;
+  left: 250px;
   display: inline;
 `;
 
 const SubtitleListEditStyle = styled(SubtitleListHeaderStyle)`
+  background-color: rgba(
+    ${(props) => {
+      return (props.color += " ");
+    }}
+  );
+  border-radius: 8px;
   padding: 8px 8px;
 `;
