@@ -1,17 +1,9 @@
 import "./App.less";
-
-import { Nav } from "./layOut";
-import { SubListScreen } from "./subList/subListScreen";
-import { Col, Row } from "antd";
+import { Home } from "./pages/home";
 
 const App = () => (
   <>
-    <Nav />
-    <Row>
-      <Col span={14} offset={5}>
-        <SubListScreen />
-      </Col>
-    </Row>
+    <Home></Home>
   </>
 );
 

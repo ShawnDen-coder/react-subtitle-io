@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DCSubtitle Version="1.1">
+<SubtitleID>4c093ce1-cc58-4924-ade0-5ac3ec45ffc7</SubtitleID>
+<MovieTitle>WGPSDSN_R1_CN</MovieTitle>
+<!--DLP/Interop subtitle file-->
+<ReelNumber>1</ReelNumber>
+<Language>English</Language>
+<!--Supply font with file name: SimHei.ttf-->
+<LoadFont Id="Font1" URI="SimHei.ttf"></LoadFont>
+<Font Id="Font1" Color="FFFAFBFE" Weight="normal" Size="37" Effect="shadow" EffectColor="FF4C4C4C" AspectAdjust="1.00">
+<Subtitle SpotNumber="1" TimeIn="00:01:29:229" TimeOut="00:01:31:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你听话不</Text>
+</Subtitle>
+<Subtitle SpotNumber="2" TimeIn="00:01:33:094" TimeOut="00:01:34:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">听话不</Text>
+</Subtitle>
+<Subtitle SpotNumber="3" TimeIn="00:01:36:000" TimeOut="00:01:37:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那你当队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="4" TimeIn="00:01:39:021" TimeOut="00:01:40:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">好 准备出发</Text>
+</Subtitle>
+<Subtitle SpotNumber="5" TimeIn="00:01:42:219" TimeOut="00:01:43:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">同学们</Text>
+</Subtitle>
+<Subtitle SpotNumber="6" TimeIn="00:01:43:240" TimeOut="00:01:45:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">从今天起</Text>
+</Subtitle>
+<Subtitle SpotNumber="7" TimeIn="00:01:45:052" TimeOut="00:01:47:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们就是一个队的队友了</Text>
+</Subtitle>
+<Subtitle SpotNumber="8" TimeIn="00:01:47:094" TimeOut="00:01:48:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">等一会到了地方</Text>
+</Subtitle>
+<Subtitle SpotNumber="9" TimeIn="00:01:48:240" TimeOut="00:01:49:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别乱跑</Text>
+</Subtitle>
+<Subtitle SpotNumber="10" TimeIn="00:01:49:240" TimeOut="00:01:50:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别乱看</Text>
+</Subtitle>
+<Subtitle SpotNumber="11" TimeIn="00:01:50:219" TimeOut="00:01:51:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别乱说</Text>
+</Subtitle>
+<Subtitle SpotNumber="12" TimeIn="00:01:52:052" TimeOut="00:01:53:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">咱们的校训你们都记得吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="13" TimeIn="00:01:53:104" TimeOut="00:01:55:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这就是我们队的全体成员</Text>
+</Subtitle>
+<Subtitle SpotNumber="14" TimeIn="00:01:56:104" TimeOut="00:01:57:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我叫张伟</Text>
+</Subtitle>
+<Subtitle SpotNumber="15" TimeIn="00:01:58:000" TimeOut="00:02:00:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">是绍海三中四个张伟中的一个</Text>
+</Subtitle>
+<Subtitle SpotNumber="16" TimeIn="00:02:00:208" TimeOut="00:02:02:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">也是最普通的一个</Text>
+</Subtitle>
+<Subtitle SpotNumber="17" TimeIn="00:02:03:094" TimeOut="00:02:04:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我的爱好不多</Text>
+</Subtitle>
+<Subtitle SpotNumber="18" TimeIn="00:02:04:229" TimeOut="00:02:06:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">也没什么特别的目标</Text>
+</Subtitle>
+<Subtitle SpotNumber="19" TimeIn="00:02:06:219" TimeOut="00:02:09:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">学习成绩 还行</Text>
+</Subtitle>
+<Subtitle SpotNumber="20" TimeIn="00:02:09:031" TimeOut="00:02:10:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我告诉你还不行</Text>
+</Subtitle>
+<Subtitle SpotNumber="21" TimeIn="00:02:11:062" TimeOut="00:02:13:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">最头疼的就是你这种学生</Text>
+</Subtitle>
+<Subtitle SpotNumber="22" TimeIn="00:02:14:125" TimeOut="00:02:15:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不上不下</Text>
+</Subtitle>
+<Subtitle SpotNumber="23" TimeIn="00:02:15:208" TimeOut="00:02:16:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不好不坏</Text>
+</Subtitle>
+<Subtitle SpotNumber="24" TimeIn="00:02:18:083" TimeOut="00:02:19:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">高二不需要努力了</Text>
+</Subtitle>
+<Subtitle SpotNumber="25" TimeIn="00:02:20:229" TimeOut="00:02:23:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我告诉你 到了高三</Text>
+</Subtitle>
+<Subtitle SpotNumber="26" TimeIn="00:02:23:125" TimeOut="00:02:24:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你哭你都来不及</Text>
+</Subtitle>
+<Subtitle SpotNumber="27" TimeIn="00:02:25:062" TimeOut="00:02:26:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">就你这种情况</Text>
+</Subtitle>
+<Subtitle SpotNumber="28" TimeIn="00:02:27:104" TimeOut="00:02:28:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我二十四</Text>
+</Subtitle>
+<Subtitle SpotNumber="29" TimeIn="00:02:28:198" TimeOut="00:02:30:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">蛐蛐是我的死党</Text>
+</Subtitle>
+<Subtitle SpotNumber="30" TimeIn="00:02:32:146" TimeOut="00:02:33:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">天性好动</Text>
+</Subtitle>
+<Subtitle SpotNumber="31" TimeIn="00:02:34:052" TimeOut="00:02:35:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">没心没肺</Text>
+</Subtitle>
+<Subtitle SpotNumber="32" TimeIn="00:02:35:229" TimeOut="00:02:37:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来呀 来呀</Text>
+</Subtitle>
+<Subtitle SpotNumber="33" TimeIn="00:02:38:135" TimeOut="00:02:39:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">曲小东</Text>
+</Subtitle>
+<Subtitle SpotNumber="34" TimeIn="00:02:39:146" TimeOut="00:02:40:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你给我站起来</Text>
+</Subtitle>
+<Subtitle SpotNumber="35" TimeIn="00:02:41:229" TimeOut="00:02:44:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你考了全班倒数第一</Text>
+</Subtitle>
+<Subtitle SpotNumber="36" TimeIn="00:02:44:135" TimeOut="00:02:46:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你有什么得意的</Text>
+</Subtitle>
+<Subtitle SpotNumber="37" TimeIn="00:02:46:083" TimeOut="00:02:47:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">都站后边去</Text>
+</Subtitle>
+<Subtitle SpotNumber="38" TimeIn="00:02:50:240" TimeOut="00:02:52:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这次考试呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="39" TimeIn="00:02:54:052" TimeOut="00:02:55:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">天天占自习</Text>
+</Subtitle>
+<Subtitle SpotNumber="40" TimeIn="00:02:56:031" TimeOut="00:02:57:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你说老夏是不是有病</Text>
+</Subtitle>
+<Subtitle SpotNumber="41" TimeIn="00:02:58:187" TimeOut="00:02:59:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">如果不是他</Text>
+</Subtitle>
+<Subtitle SpotNumber="42" TimeIn="00:02:59:115" TimeOut="00:03:01:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">拉着我加入校游泳队</Text>
+</Subtitle>
+<Subtitle SpotNumber="43" TimeIn="00:03:01:156" TimeOut="00:03:03:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我可能永远也没有勇气</Text>
+</Subtitle>
+<Subtitle SpotNumber="44" TimeIn="00:03:03:219" TimeOut="00:03:06:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">逃离那两节让人不爽的自习课</Text>
+</Subtitle>
+<Subtitle SpotNumber="45" TimeIn="00:03:10:240" TimeOut="00:03:13:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">还有刚从东北转学过来的王子</Text>
+</Subtitle>
+<Subtitle SpotNumber="46" TimeIn="00:03:16:187" TimeOut="00:03:17:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">让你们看看</Text>
+</Subtitle>
+<Subtitle SpotNumber="47" TimeIn="00:03:17:229" TimeOut="00:03:20:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">什么是被眼镜封印的颜值</Text>
+</Subtitle>
+<Subtitle SpotNumber="48" TimeIn="00:03:21:240" TimeOut="00:03:23:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">性格呆萌</Text>
+</Subtitle>
+<Subtitle SpotNumber="49" TimeIn="00:03:25:021" TimeOut="00:03:26:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们还缺人吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="50" TimeIn="00:03:26:240" TimeOut="00:03:28:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">大概是我见过的</Text>
+</Subtitle>
+<Subtitle SpotNumber="51" TimeIn="00:03:28:073" TimeOut="00:03:29:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">最爱交朋友的人</Text>
+</Subtitle>
+<Subtitle SpotNumber="52" TimeIn="00:03:29:125" TimeOut="00:03:30:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">带我一个呗</Text>
+</Subtitle>
+<Subtitle SpotNumber="53" TimeIn="00:03:35:208" TimeOut="00:03:38:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">还有就是高二一班的陈铭涵</Text>
+</Subtitle>
+<Subtitle SpotNumber="54" TimeIn="00:03:39:031" TimeOut="00:03:40:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">总分第一又是陈铭涵</Text>
+</Subtitle>
+<Subtitle SpotNumber="55" TimeIn="00:03:41:198" TimeOut="00:03:43:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">蝉联各种总分第一</Text>
+</Subtitle>
+<Subtitle SpotNumber="56" TimeIn="00:03:45:208" TimeOut="00:03:48:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">陈铭涵 我问的不是课程科目</Text>
+</Subtitle>
+<Subtitle SpotNumber="57" TimeIn="00:03:48:073" TimeOut="00:03:49:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">是兴趣爱好</Text>
+</Subtitle>
+<Subtitle SpotNumber="58" TimeIn="00:03:49:167" TimeOut="00:03:50:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我说的也是爱好</Text>
+</Subtitle>
+<Subtitle SpotNumber="59" TimeIn="00:03:51:021" TimeOut="00:03:52:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我的爱好就是三角函数</Text>
+</Subtitle>
+<Subtitle SpotNumber="60" TimeIn="00:03:53:031" TimeOut="00:03:55:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">他可能就是我妈说的那种</Text>
+</Subtitle>
+<Subtitle SpotNumber="61" TimeIn="00:03:55:073" TimeOut="00:03:56:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别人家的孩子吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="62" TimeIn="00:03:58:073" TimeOut="00:03:59:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">高飞</Text>
+</Subtitle>
+<Subtitle SpotNumber="63" TimeIn="00:03:59:167" TimeOut="00:04:01:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我们学校优质的体育特长生</Text>
+</Subtitle>
+<Subtitle SpotNumber="64" TimeIn="00:04:03:000" TimeOut="00:04:05:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">却拒绝参加一切体育社团</Text>
+</Subtitle>
+<Subtitle SpotNumber="65" TimeIn="00:04:07:000" TimeOut="00:04:08:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">在大家眼里</Text>
+</Subtitle>
+<Subtitle SpotNumber="66" TimeIn="00:04:08:208" TimeOut="00:04:10:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">他一直很酷很神秘</Text>
+</Subtitle>
+<Subtitle SpotNumber="67" TimeIn="00:04:17:073" TimeOut="00:04:18:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">着火啦</Text>
+</Subtitle>
+<Subtitle SpotNumber="68" TimeIn="00:04:18:052" TimeOut="00:04:18:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">什么</Text>
+</Subtitle>
+<Subtitle SpotNumber="69" TimeIn="00:04:18:125" TimeOut="00:04:20:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你的衣服着火啦</Text>
+</Subtitle>
+<Subtitle SpotNumber="70" TimeIn="00:04:27:187" TimeOut="00:04:28:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么回事</Text>
+</Subtitle>
+<Subtitle SpotNumber="71" TimeIn="00:04:29:125" TimeOut="00:04:30:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你干的</Text>
+</Subtitle>
+<Subtitle SpotNumber="72" TimeIn="00:04:33:010" TimeOut="00:04:33:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我</Text>
+</Subtitle>
+<Subtitle SpotNumber="73" TimeIn="00:04:36:115" TimeOut="00:04:37:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">衣服上有一个线头</Text>
+</Subtitle>
+<Subtitle SpotNumber="74" TimeIn="00:04:42:010" TimeOut="00:04:43:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">奎老师是我们的教练</Text>
+</Subtitle>
+<Subtitle SpotNumber="75" TimeIn="00:04:44:000" TimeOut="00:04:45:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">工作负责 激情澎湃</Text>
+</Subtitle>
+<Subtitle SpotNumber="76" TimeIn="00:04:46:135" TimeOut="00:04:47:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">平常干什么事儿</Text>
+</Subtitle>
+<Subtitle SpotNumber="77" TimeIn="00:04:48:010" TimeOut="00:04:49:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">都跟打了鸡血似的</Text>
+</Subtitle>
+<Subtitle SpotNumber="78" TimeIn="00:04:49:021" TimeOut="00:04:50:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你还得从游泳队里面给我调俩人</Text>
+</Subtitle>
+<Subtitle SpotNumber="79" TimeIn="00:04:50:177" TimeOut="00:04:52:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">举办这次高中水上运动会</Text>
+</Subtitle>
+<Subtitle SpotNumber="80" TimeIn="00:04:52:219" TimeOut="00:04:53:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">可是鸡血打多了</Text>
+</Subtitle>
+<Subtitle SpotNumber="81" TimeIn="00:04:54:146" TimeOut="00:04:55:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">就容易</Text>
+</Subtitle>
+<Subtitle SpotNumber="82" TimeIn="00:04:56:219" TimeOut="00:04:57:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">困</Text>
+</Subtitle>
+<Subtitle SpotNumber="83" TimeIn="00:04:57:187" TimeOut="00:05:00:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">提高高中生的全面素质</Text>
+</Subtitle>
+<Subtitle SpotNumber="84" TimeIn="00:05:00:146" TimeOut="00:05:01:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">所以我们希望</Text>
+</Subtitle>
+<Subtitle SpotNumber="85" TimeIn="00:05:02:010" TimeOut="00:05:04:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">各个学校根据自己的情况</Text>
+</Subtitle>
+<Subtitle SpotNumber="86" TimeIn="00:05:04:083" TimeOut="00:05:06:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">组建这个男子</Text>
+</Subtitle>
+<Subtitle SpotNumber="87" TimeIn="00:05:06:125" TimeOut="00:05:07:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">是女子</Text>
+</Subtitle>
+<Subtitle SpotNumber="88" TimeIn="00:05:08:219" TimeOut="00:05:09:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不对</Text>
+</Subtitle>
+<Subtitle SpotNumber="89" TimeIn="00:05:09:156" TimeOut="00:05:11:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">是女子花样游泳队</Text>
+</Subtitle>
+<Subtitle SpotNumber="90" TimeIn="00:05:12:042" TimeOut="00:05:13:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">当然了</Text>
+</Subtitle>
+<Subtitle SpotNumber="91" TimeIn="00:05:13:052" TimeOut="00:05:16:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">哪个学校愿意多组建一支男子的</Text>
+</Subtitle>
+<Subtitle SpotNumber="92" TimeIn="00:05:16:083" TimeOut="00:05:17:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我们也一样欢迎</Text>
+</Subtitle>
+<Subtitle SpotNumber="93" TimeIn="00:05:20:187" TimeOut="00:05:22:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这个 创新的意义</Text>
+</Subtitle>
+<Subtitle SpotNumber="94" TimeIn="00:05:22:240" TimeOut="00:05:26:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">就在于要和以前单纯注重升学率</Text>
+</Subtitle>
+<Subtitle SpotNumber="95" TimeIn="00:05:26:219" TimeOut="00:05:28:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">领导刚才说什么了</Text>
+</Subtitle>
+<Subtitle SpotNumber="96" TimeIn="00:05:28:135" TimeOut="00:05:30:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">组建男子花样游泳队</Text>
+</Subtitle>
+<Subtitle SpotNumber="97" TimeIn="00:05:37:135" TimeOut="00:05:39:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">领导开玩笑说的</Text>
+</Subtitle>
+<Subtitle SpotNumber="98" TimeIn="00:05:42:021" TimeOut="00:05:43:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别的学校都是女队</Text>
+</Subtitle>
+<Subtitle SpotNumber="99" TimeIn="00:05:45:240" TimeOut="00:05:47:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">就我们学校一个男队</Text>
+</Subtitle>
+<Subtitle SpotNumber="100" TimeIn="00:05:50:125" TimeOut="00:05:51:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我知道了</Text>
+</Subtitle>
+<Subtitle SpotNumber="101" TimeIn="00:05:55:104" TimeOut="00:05:56:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">好</Text>
+</Subtitle>
+<Subtitle SpotNumber="102" TimeIn="00:05:57:021" TimeOut="00:05:58:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">好 再见</Text>
+</Subtitle>
+<Subtitle SpotNumber="103" TimeIn="00:06:04:146" TimeOut="00:06:07:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你怎么连性别都搞错了呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="104" TimeIn="00:06:08:010" TimeOut="00:06:08:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">领导开玩笑</Text>
+</Subtitle>
+<Subtitle SpotNumber="105" TimeIn="00:06:09:052" TimeOut="00:06:10:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">听不出来吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="106" TimeIn="00:06:10:156" TimeOut="00:06:12:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这全国也找不出一支</Text>
+</Subtitle>
+<Subtitle SpotNumber="107" TimeIn="00:06:13:000" TimeOut="00:06:14:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">完整的男子花样游泳队</Text>
+</Subtitle>
+<Subtitle SpotNumber="108" TimeIn="00:06:15:062" TimeOut="00:06:16:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那您看</Text>
+</Subtitle>
+<Subtitle SpotNumber="109" TimeIn="00:06:16:052" TimeOut="00:06:17:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">现在怎么办</Text>
+</Subtitle>
+<Subtitle SpotNumber="110" TimeIn="00:06:17:208" TimeOut="00:06:18:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">还能怎么办</Text>
+</Subtitle>
+<Subtitle SpotNumber="111" TimeIn="00:06:18:208" TimeOut="00:06:19:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">都已经报上去了</Text>
+</Subtitle>
+<Subtitle SpotNumber="112" TimeIn="00:06:20:062" TimeOut="00:06:21:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你先把人招起来吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="113" TimeIn="00:06:21:229" TimeOut="00:06:23:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别到时候校长问起来</Text>
+</Subtitle>
+<Subtitle SpotNumber="114" TimeIn="00:06:23:187" TimeOut="00:06:24:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">连人都没招齐呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="115" TimeIn="00:06:25:156" TimeOut="00:06:26:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">好</Text>
+</Subtitle>
+<Subtitle SpotNumber="116" TimeIn="00:06:27:177" TimeOut="00:06:28:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">招几个了</Text>
+</Subtitle>
+<Subtitle SpotNumber="117" TimeIn="00:06:29:042" TimeOut="00:06:29:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">五个</Text>
+</Subtitle>
+<Subtitle SpotNumber="118" TimeIn="00:06:30:042" TimeOut="00:06:31:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">已经招五个了</Text>
+</Subtitle>
+<Subtitle SpotNumber="119" TimeIn="00:06:38:240" TimeOut="00:06:40:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们五个</Text>
+</Subtitle>
+<Subtitle SpotNumber="120" TimeIn="00:06:40:125" TimeOut="00:06:42:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">一定要展现出高中生</Text>
+</Subtitle>
+<Subtitle SpotNumber="121" TimeIn="00:06:42:115" TimeOut="00:06:44:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">优良的精神面貌</Text>
+</Subtitle>
+<Subtitle SpotNumber="122" TimeIn="00:06:45:208" TimeOut="00:06:46:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">对了</Text>
+</Subtitle>
+<Subtitle SpotNumber="123" TimeIn="00:06:46:208" TimeOut="00:06:50:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那个 欢迎加入男子花样游泳队</Text>
+</Subtitle>
+<Subtitle SpotNumber="124" TimeIn="00:06:52:104" TimeOut="00:06:53:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我二班的</Text>
+</Subtitle>
+<Subtitle SpotNumber="125" TimeIn="00:06:53:115" TimeOut="00:06:53:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我姓王</Text>
+</Subtitle>
+<Subtitle SpotNumber="126" TimeIn="00:06:54:042" TimeOut="00:06:55:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我叫王子</Text>
+</Subtitle>
+<Subtitle SpotNumber="127" TimeIn="00:06:55:177" TimeOut="00:06:56:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我七班的</Text>
+</Subtitle>
+<Subtitle SpotNumber="128" TimeIn="00:06:56:125" TimeOut="00:06:57:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我姓父</Text>
+</Subtitle>
+<Subtitle SpotNumber="129" TimeIn="00:06:57:104" TimeOut="00:06:58:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我叫父王</Text>
+</Subtitle>
+<Subtitle SpotNumber="130" TimeIn="00:07:02:229" TimeOut="00:07:04:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不是游泳队吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="131" TimeIn="00:07:04:052" TimeOut="00:07:05:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么变花样的了</Text>
+</Subtitle>
+<Subtitle SpotNumber="132" TimeIn="00:07:13:115" TimeOut="00:07:14:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">花样游泳</Text>
+</Subtitle>
+<Subtitle SpotNumber="133" TimeIn="00:07:14:125" TimeOut="00:07:16:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">又有水上芭蕾之称</Text>
+</Subtitle>
+<Subtitle SpotNumber="134" TimeIn="00:07:17:010" TimeOut="00:07:18:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">起源于欧洲</Text>
+</Subtitle>
+<Subtitle SpotNumber="135" TimeIn="00:07:18:135" TimeOut="00:07:19:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">最早是在</Text>
+</Subtitle>
+<Subtitle SpotNumber="136" TimeIn="00:07:19:125" TimeOut="00:07:21:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">游泳比赛的间歇的时候</Text>
+</Subtitle>
+<Subtitle SpotNumber="137" TimeIn="00:07:21:073" TimeOut="00:07:23:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">进行的一个表演项目</Text>
+</Subtitle>
+<Subtitle SpotNumber="138" TimeIn="00:07:23:052" TimeOut="00:07:25:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">它具备很高的艺术性</Text>
+</Subtitle>
+<Subtitle SpotNumber="139" TimeIn="00:07:25:010" TimeOut="00:07:26:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">需要一定的技巧</Text>
+</Subtitle>
+<Subtitle SpotNumber="140" TimeIn="00:07:26:177" TimeOut="00:07:28:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">舞蹈和力量的基础</Text>
+</Subtitle>
+<Subtitle SpotNumber="141" TimeIn="00:07:28:208" TimeOut="00:07:29:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">一般来说</Text>
+</Subtitle>
+<Subtitle SpotNumber="142" TimeIn="00:07:29:156" TimeOut="00:07:30:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">花样游泳运动分为</Text>
+</Subtitle>
+<Subtitle SpotNumber="143" TimeIn="00:07:31:000" TimeOut="00:07:31:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">单人</Text>
+</Subtitle>
+<Subtitle SpotNumber="144" TimeIn="00:07:31:177" TimeOut="00:07:32:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">双人</Text>
+</Subtitle>
+<Subtitle SpotNumber="145" TimeIn="00:07:32:156" TimeOut="00:07:33:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">混双</Text>
+</Subtitle>
+<Subtitle SpotNumber="146" TimeIn="00:07:33:104" TimeOut="00:07:34:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">和集体项目</Text>
+</Subtitle>
+<Subtitle SpotNumber="147" TimeIn="00:07:34:177" TimeOut="00:07:36:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">按照奥运会的标准和规则</Text>
+</Subtitle>
+<Subtitle SpotNumber="148" TimeIn="00:07:36:198" TimeOut="00:07:39:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">集体项目的人数必须是八个人</Text>
+</Subtitle>
+<Subtitle SpotNumber="149" TimeIn="00:07:43:073" TimeOut="00:07:44:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这跟你们说话呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="150" TimeIn="00:07:44:156" TimeOut="00:07:45:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">能不能认真听一下啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="151" TimeIn="00:07:45:208" TimeOut="00:07:46:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">奎老师</Text>
+</Subtitle>
+<Subtitle SpotNumber="152" TimeIn="00:07:46:104" TimeOut="00:07:48:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我下面还有其他的训练安排</Text>
+</Subtitle>
+<Subtitle SpotNumber="153" TimeIn="00:07:48:042" TimeOut="00:07:48:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我就先走了</Text>
+</Subtitle>
+<Subtitle SpotNumber="154" TimeIn="00:07:49:000" TimeOut="00:07:49:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不好意思啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="155" TimeIn="00:07:49:104" TimeOut="00:07:50:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">您忙</Text>
+</Subtitle>
+<Subtitle SpotNumber="156" TimeIn="00:07:50:156" TimeOut="00:07:51:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">添麻烦了</Text>
+</Subtitle>
+<Subtitle SpotNumber="157" TimeIn="00:07:51:135" TimeOut="00:07:52:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">奎老师</Text>
+</Subtitle>
+<Subtitle SpotNumber="158" TimeIn="00:07:52:125" TimeOut="00:07:53:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我们也要练这个</Text>
+</Subtitle>
+<Subtitle SpotNumber="159" TimeIn="00:07:54:021" TimeOut="00:07:55:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">她们都是女孩</Text>
+</Subtitle>
+<Subtitle SpotNumber="160" TimeIn="00:07:55:052" TimeOut="00:07:56:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">女孩怎么了</Text>
+</Subtitle>
+<Subtitle SpotNumber="161" TimeIn="00:07:56:167" TimeOut="00:07:57:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那女孩能练拳击</Text>
+</Subtitle>
+<Subtitle SpotNumber="162" TimeIn="00:07:57:187" TimeOut="00:07:59:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">男孩就不能练花游吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="163" TimeIn="00:07:59:083" TimeOut="00:08:00:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">好好看</Text>
+</Subtitle>
+<Subtitle SpotNumber="164" TimeIn="00:08:00:073" TimeOut="00:08:01:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">看动作</Text>
+</Subtitle>
+<Subtitle SpotNumber="165" TimeIn="00:08:01:125" TimeOut="00:08:02:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">看队形</Text>
+</Subtitle>
+<Subtitle SpotNumber="166" TimeIn="00:08:02:198" TimeOut="00:08:03:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别看别的</Text>
+</Subtitle>
+<Subtitle SpotNumber="167" TimeIn="00:08:17:062" TimeOut="00:08:18:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不靠谱</Text>
+</Subtitle>
+<Subtitle SpotNumber="168" TimeIn="00:08:18:083" TimeOut="00:08:19:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么了</Text>
+</Subtitle>
+<Subtitle SpotNumber="169" TimeIn="00:08:19:073" TimeOut="00:08:21:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">几个男的练花样游泳</Text>
+</Subtitle>
+<Subtitle SpotNumber="170" TimeIn="00:08:21:104" TimeOut="00:08:22:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你不觉得奇怪</Text>
+</Subtitle>
+<Subtitle SpotNumber="171" TimeIn="00:08:22:198" TimeOut="00:08:24:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">而且咱们就五个人</Text>
+</Subtitle>
+<Subtitle SpotNumber="172" TimeIn="00:08:25:146" TimeOut="00:08:26:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">五个人怎么了</Text>
+</Subtitle>
+<Subtitle SpotNumber="173" TimeIn="00:08:26:198" TimeOut="00:08:28:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">五个人怎么偷懒</Text>
+</Subtitle>
+<Subtitle SpotNumber="174" TimeIn="00:08:28:208" TimeOut="00:08:30:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">而且奎大猛说还有比赛</Text>
+</Subtitle>
+<Subtitle SpotNumber="175" TimeIn="00:08:30:083" TimeOut="00:08:31:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那咱们到时候不得真练啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="176" TimeIn="00:08:33:073" TimeOut="00:08:34:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那怎么办啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="177" TimeIn="00:08:35:198" TimeOut="00:08:36:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">要不去足球队吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="178" TimeIn="00:08:37:094" TimeOut="00:08:38:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那人多</Text>
+</Subtitle>
+<Subtitle SpotNumber="179" TimeIn="00:08:38:167" TimeOut="00:08:39:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">篮球队也行</Text>
+</Subtitle>
+<Subtitle SpotNumber="180" TimeIn="00:08:39:229" TimeOut="00:08:40:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">好几十个呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="181" TimeIn="00:08:41:062" TimeOut="00:08:41:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来同学们</Text>
+</Subtitle>
+<Subtitle SpotNumber="182" TimeIn="00:08:42:010" TimeOut="00:08:42:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来上课了</Text>
+</Subtitle>
+<Subtitle SpotNumber="183" TimeIn="00:08:46:042" TimeOut="00:08:47:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这节自习课</Text>
+</Subtitle>
+<Subtitle SpotNumber="184" TimeIn="00:08:47:219" TimeOut="00:08:49:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">让我们来分享一道</Text>
+</Subtitle>
+<Subtitle SpotNumber="185" TimeIn="00:08:49:094" TimeOut="00:08:51:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">诺贝尔级的解题思路</Text>
+</Subtitle>
+<Subtitle SpotNumber="186" TimeIn="00:08:52:198" TimeOut="00:08:53:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来来来</Text>
+</Subtitle>
+<Subtitle SpotNumber="187" TimeIn="00:08:53:229" TimeOut="00:08:56:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">让我们看看这个大侠</Text>
+</Subtitle>
+<Subtitle SpotNumber="188" TimeIn="00:08:56:083" TimeOut="00:08:58:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">他是怎么让重锤片</Text>
+</Subtitle>
+<Subtitle SpotNumber="189" TimeIn="00:08:58:229" TimeOut="00:08:59:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">下落的</Text>
+</Subtitle>
+<Subtitle SpotNumber="190" TimeIn="00:09:00:073" TimeOut="00:09:01:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我们来看一下</Text>
+</Subtitle>
+<Subtitle SpotNumber="191" TimeIn="00:09:02:125" TimeOut="00:09:03:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">咔嚓</Text>
+</Subtitle>
+<Subtitle SpotNumber="192" TimeIn="00:09:03:094" TimeOut="00:09:04:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">给我砍断了</Text>
+</Subtitle>
+<Subtitle SpotNumber="193" TimeIn="00:09:04:208" TimeOut="00:09:06:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">用的是血饮狂刀</Text>
+</Subtitle>
+<Subtitle SpotNumber="194" TimeIn="00:09:07:229" TimeOut="00:09:08:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">厉害啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="195" TimeIn="00:09:09:135" TimeOut="00:09:10:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">曲小东</Text>
+</Subtitle>
+<Subtitle SpotNumber="196" TimeIn="00:09:11:219" TimeOut="00:09:12:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">人呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="197" TimeIn="00:09:14:000" TimeOut="00:09:14:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">人呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="198" TimeIn="00:09:15:010" TimeOut="00:09:15:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">报告</Text>
+</Subtitle>
+<Subtitle SpotNumber="199" TimeIn="00:09:17:021" TimeOut="00:09:17:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不好意思老师</Text>
+</Subtitle>
+<Subtitle SpotNumber="200" TimeIn="00:09:18:031" TimeOut="00:09:19:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我们今天有训练</Text>
+</Subtitle>
+<Subtitle SpotNumber="201" TimeIn="00:09:20:073" TimeOut="00:09:21:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">快点张伟</Text>
+</Subtitle>
+<Subtitle SpotNumber="202" TimeIn="00:09:21:115" TimeOut="00:09:23:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">一会迟到又要被教练骂</Text>
+</Subtitle>
+<Subtitle SpotNumber="203" TimeIn="00:09:24:219" TimeOut="00:09:25:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不好意思 夏老师</Text>
+</Subtitle>
+<Subtitle SpotNumber="204" TimeIn="00:09:26:073" TimeOut="00:09:27:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">夏老师 明天见</Text>
+</Subtitle>
+<Subtitle SpotNumber="205" TimeIn="00:09:30:146" TimeOut="00:09:31:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不是说不去了吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="206" TimeIn="00:09:31:187" TimeOut="00:09:32:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">只要不上自习课</Text>
+</Subtitle>
+<Subtitle SpotNumber="207" TimeIn="00:09:32:187" TimeOut="00:09:33:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">练什么都行 走</Text>
+</Subtitle>
+<Subtitle SpotNumber="208" TimeIn="00:09:39:146" TimeOut="00:09:40:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">太爽了</Text>
+</Subtitle>
+<Subtitle SpotNumber="209" TimeIn="00:09:40:240" TimeOut="00:09:41:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">队长下来</Text>
+</Subtitle>
+<Subtitle SpotNumber="210" TimeIn="00:09:42:062" TimeOut="00:09:42:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">快来</Text>
+</Subtitle>
+<Subtitle SpotNumber="211" TimeIn="00:09:53:031" TimeOut="00:09:53:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">干吗呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="212" TimeIn="00:09:54:083" TimeOut="00:09:55:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">上厕所去了</Text>
+</Subtitle>
+<Subtitle SpotNumber="213" TimeIn="00:09:55:052" TimeOut="00:09:56:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我问你现在干吗呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="214" TimeIn="00:09:56:229" TimeOut="00:09:57:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">坐着呀</Text>
+</Subtitle>
+<Subtitle SpotNumber="215" TimeIn="00:09:57:198" TimeOut="00:09:58:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">坐着</Text>
+</Subtitle>
+<Subtitle SpotNumber="216" TimeIn="00:09:59:000" TimeOut="00:10:00:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我让你来是坐着来的是不</Text>
+</Subtitle>
+<Subtitle SpotNumber="217" TimeIn="00:10:00:208" TimeOut="00:10:02:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那我赔你衣服赔你钱包</Text>
+</Subtitle>
+<Subtitle SpotNumber="218" TimeIn="00:10:02:021" TimeOut="00:10:02:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你让我走</Text>
+</Subtitle>
+<Subtitle SpotNumber="219" TimeIn="00:10:10:115" TimeOut="00:10:12:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那个谁 你怎么当的队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="220" TimeIn="00:10:12:083" TimeOut="00:10:13:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">赶紧给我出发点集合</Text>
+</Subtitle>
+<Subtitle SpotNumber="221" TimeIn="00:10:14:177" TimeOut="00:10:15:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们两个</Text>
+</Subtitle>
+<Subtitle SpotNumber="222" TimeIn="00:10:15:156" TimeOut="00:10:16:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">出发点集合</Text>
+</Subtitle>
+<Subtitle SpotNumber="223" TimeIn="00:10:30:156" TimeOut="00:10:31:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">注意听我讲</Text>
+</Subtitle>
+<Subtitle SpotNumber="224" TimeIn="00:10:32:115" TimeOut="00:10:33:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">同学们</Text>
+</Subtitle>
+<Subtitle SpotNumber="225" TimeIn="00:10:33:156" TimeOut="00:10:36:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们一定要重视这一次训练</Text>
+</Subtitle>
+<Subtitle SpotNumber="226" TimeIn="00:10:36:177" TimeOut="00:10:38:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这将成为你们人生中</Text>
+</Subtitle>
+<Subtitle SpotNumber="227" TimeIn="00:10:38:167" TimeOut="00:10:41:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">非常值得铭记的一课</Text>
+</Subtitle>
+<Subtitle SpotNumber="228" TimeIn="00:10:42:010" TimeOut="00:10:43:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们要勇敢</Text>
+</Subtitle>
+<Subtitle SpotNumber="229" TimeIn="00:10:43:094" TimeOut="00:10:44:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们要拼搏</Text>
+</Subtitle>
+<Subtitle SpotNumber="230" TimeIn="00:10:45:000" TimeOut="00:10:46:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们要勇者无畏</Text>
+</Subtitle>
+<Subtitle SpotNumber="231" TimeIn="00:10:47:167" TimeOut="00:10:48:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">听我的哨声</Text>
+</Subtitle>
+<Subtitle SpotNumber="232" TimeIn="00:10:49:000" TimeOut="00:10:50:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">哨声响起之后</Text>
+</Subtitle>
+<Subtitle SpotNumber="233" TimeIn="00:10:50:167" TimeOut="00:10:51:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">全力以赴</Text>
+</Subtitle>
+<Subtitle SpotNumber="234" TimeIn="00:10:51:167" TimeOut="00:10:52:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">冲向对岸</Text>
+</Subtitle>
+<Subtitle SpotNumber="235" TimeIn="00:10:53:021" TimeOut="00:10:55:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">让我看到你们优秀的素质</Text>
+</Subtitle>
+<Subtitle SpotNumber="236" TimeIn="00:10:55:187" TimeOut="00:10:56:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">好不好</Text>
+</Subtitle>
+<Subtitle SpotNumber="237" TimeIn="00:10:57:219" TimeOut="00:10:58:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">准备</Text>
+</Subtitle>
+<Subtitle SpotNumber="238" TimeIn="00:10:59:073" TimeOut="00:11:00:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">集中精力</Text>
+</Subtitle>
+<Subtitle SpotNumber="239" TimeIn="00:11:01:073" TimeOut="00:11:02:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">预备</Text>
+</Subtitle>
+<Subtitle SpotNumber="240" TimeIn="00:11:07:125" TimeOut="00:11:08:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">有什么事儿打电话啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="241" TimeIn="00:11:13:042" TimeOut="00:11:13:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">校长</Text>
+</Subtitle>
+<Subtitle SpotNumber="242" TimeIn="00:11:14:115" TimeOut="00:11:14:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">对对对</Text>
+</Subtitle>
+<Subtitle SpotNumber="243" TimeIn="00:11:14:219" TimeOut="00:11:16:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">人已经送医院去了</Text>
+</Subtitle>
+<Subtitle SpotNumber="244" TimeIn="00:11:16:240" TimeOut="00:11:17:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">小付跟着呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="245" TimeIn="00:11:18:167" TimeOut="00:11:20:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">有情况我向您汇报</Text>
+</Subtitle>
+<Subtitle SpotNumber="246" TimeIn="00:11:30:135" TimeOut="00:11:32:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">自由啦</Text>
+</Subtitle>
+<Subtitle SpotNumber="247" TimeIn="00:11:47:083" TimeOut="00:11:48:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我那个笔记里面</Text>
+</Subtitle>
+<Subtitle SpotNumber="248" TimeIn="00:11:48:125" TimeOut="00:11:49:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">有你们的训练计划</Text>
+</Subtitle>
+<Subtitle SpotNumber="249" TimeIn="00:11:50:042" TimeOut="00:11:51:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你一定要好好领会</Text>
+</Subtitle>
+<Subtitle SpotNumber="250" TimeIn="00:11:52:021" TimeOut="00:11:53:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这个带着大家打打基础</Text>
+</Subtitle>
+<Subtitle SpotNumber="251" TimeIn="00:11:54:000" TimeOut="00:11:54:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">找找感觉</Text>
+</Subtitle>
+<Subtitle SpotNumber="252" TimeIn="00:11:56:062" TimeOut="00:11:57:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">教练不在的时候</Text>
+</Subtitle>
+<Subtitle SpotNumber="253" TimeIn="00:11:57:219" TimeOut="00:11:59:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">队长就是教练</Text>
+</Subtitle>
+<Subtitle SpotNumber="254" TimeIn="00:11:59:156" TimeOut="00:12:00:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">明白吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="255" TimeIn="00:12:00:240" TimeOut="00:12:02:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">所以你作为队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="256" TimeIn="00:12:02:115" TimeOut="00:12:03:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">一定要负起责任来</Text>
+</Subtitle>
+<Subtitle SpotNumber="257" TimeIn="00:12:03:187" TimeOut="00:12:04:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">听到没有</Text>
+</Subtitle>
+<Subtitle SpotNumber="258" TimeIn="00:12:06:104" TimeOut="00:12:08:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">可我没当过队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="259" TimeIn="00:12:08:229" TimeOut="00:12:10:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么负责任</Text>
+</Subtitle>
+<Subtitle SpotNumber="260" TimeIn="00:12:12:000" TimeOut="00:12:13:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我还要带着大家训练</Text>
+</Subtitle>
+<Subtitle SpotNumber="261" TimeIn="00:12:17:000" TimeOut="00:12:18:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么练啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="262" TimeIn="00:12:18:062" TimeOut="00:12:18:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">张伟</Text>
+</Subtitle>
+<Subtitle SpotNumber="263" TimeIn="00:12:19:104" TimeOut="00:12:19:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">张伟</Text>
+</Subtitle>
+<Subtitle SpotNumber="264" TimeIn="00:12:20:062" TimeOut="00:12:21:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">咱俩比一圈</Text>
+</Subtitle>
+<Subtitle SpotNumber="265" TimeIn="00:12:21:146" TimeOut="00:12:22:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我忙着呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="266" TimeIn="00:12:23:083" TimeOut="00:12:25:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不是你不下水不合适吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="267" TimeIn="00:12:25:198" TimeOut="00:12:26:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">陈铭涵</Text>
+</Subtitle>
+<Subtitle SpotNumber="268" TimeIn="00:12:27:000" TimeOut="00:12:28:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">咱俩来一局</Text>
+</Subtitle>
+<Subtitle SpotNumber="269" TimeIn="00:12:28:104" TimeOut="00:12:29:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来</Text>
+</Subtitle>
+<Subtitle SpotNumber="270" TimeIn="00:12:29:073" TimeOut="00:12:30:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">咱俩再比一把</Text>
+</Subtitle>
+<Subtitle SpotNumber="271" TimeIn="00:12:31:052" TimeOut="00:12:32:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你不行啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="272" TimeIn="00:12:32:104" TimeOut="00:12:33:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">比憋气</Text>
+</Subtitle>
+<Subtitle SpotNumber="273" TimeIn="00:12:33:115" TimeOut="00:12:34:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">输了的请喝饮料</Text>
+</Subtitle>
+<Subtitle SpotNumber="274" TimeIn="00:12:35:000" TimeOut="00:12:35:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">行 来</Text>
+</Subtitle>
+<Subtitle SpotNumber="275" TimeIn="00:12:36:073" TimeOut="00:12:37:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你说的啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="276" TimeIn="00:12:37:115" TimeOut="00:12:38:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你不祝福我一下吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="277" TimeIn="00:12:38:177" TimeOut="00:12:39:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">活着就好</Text>
+</Subtitle>
+<Subtitle SpotNumber="278" TimeIn="00:12:39:146" TimeOut="00:12:40:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">预备</Text>
+</Subtitle>
+<Subtitle SpotNumber="279" TimeIn="00:12:40:062" TimeOut="00:12:42:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">一 二 三</Text>
+</Subtitle>
+<Subtitle SpotNumber="280" TimeIn="00:14:28:198" TimeOut="00:14:29:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">爸妈晚上有事</Text>
+</Subtitle>
+<Subtitle SpotNumber="281" TimeIn="00:14:29:208" TimeOut="00:14:30:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我有晚自习</Text>
+</Subtitle>
+<Subtitle SpotNumber="282" TimeIn="00:14:31:000" TimeOut="00:14:32:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你今天自己回家</Text>
+</Subtitle>
+<Subtitle SpotNumber="283" TimeIn="00:14:35:115" TimeOut="00:14:36:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">他们在训练吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="284" TimeIn="00:14:38:031" TimeOut="00:14:38:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不知道</Text>
+</Subtitle>
+<Subtitle SpotNumber="285" TimeIn="00:14:42:167" TimeOut="00:14:44:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">下次记得自己带钥匙</Text>
+</Subtitle>
+<Subtitle SpotNumber="286" TimeIn="00:14:50:000" TimeOut="00:14:50:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">陈铭涵</Text>
+</Subtitle>
+<Subtitle SpotNumber="287" TimeIn="00:14:51:156" TimeOut="00:14:52:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">谁啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="288" TimeIn="00:14:53:000" TimeOut="00:14:53:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我姐</Text>
+</Subtitle>
+<Subtitle SpotNumber="289" TimeIn="00:15:22:052" TimeOut="00:15:24:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">可以啊 小伙</Text>
+</Subtitle>
+<Subtitle SpotNumber="290" TimeIn="00:15:33:083" TimeOut="00:15:35:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">小伙屁股挺有弹性嘛</Text>
+</Subtitle>
+<Subtitle SpotNumber="291" TimeIn="00:15:36:042" TimeOut="00:15:36:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来啊来啊来啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="292" TimeIn="00:15:36:208" TimeOut="00:15:37:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">踹我干嘛</Text>
+</Subtitle>
+<Subtitle SpotNumber="293" TimeIn="00:15:37:198" TimeOut="00:15:39:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">请你喝饮料啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="294" TimeIn="00:15:41:208" TimeOut="00:15:42:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来来来</Text>
+</Subtitle>
+<Subtitle SpotNumber="295" TimeIn="00:15:42:187" TimeOut="00:15:43:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别走</Text>
+</Subtitle>
+<Subtitle SpotNumber="296" TimeIn="00:15:43:208" TimeOut="00:15:45:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">给我买饮料</Text>
+</Subtitle>
+<Subtitle SpotNumber="297" TimeIn="00:15:49:208" TimeOut="00:15:50:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">眼瞎吧你</Text>
+</Subtitle>
+<Subtitle SpotNumber="298" TimeIn="00:15:51:208" TimeOut="00:15:53:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不是你才瞎呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="299" TimeIn="00:15:55:052" TimeOut="00:15:55:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们干吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="300" TimeIn="00:15:56:177" TimeOut="00:15:57:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我们训练</Text>
+</Subtitle>
+<Subtitle SpotNumber="301" TimeIn="00:15:58:104" TimeOut="00:15:59:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">今天我们训练</Text>
+</Subtitle>
+<Subtitle SpotNumber="302" TimeIn="00:15:59:187" TimeOut="00:16:01:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们连教练都没有</Text>
+</Subtitle>
+<Subtitle SpotNumber="303" TimeIn="00:16:01:052" TimeOut="00:16:02:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">占着泳池干什么呀</Text>
+</Subtitle>
+<Subtitle SpotNumber="304" TimeIn="00:16:02:167" TimeOut="00:16:03:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">赶紧腾地儿</Text>
+</Subtitle>
+<Subtitle SpotNumber="305" TimeIn="00:16:03:146" TimeOut="00:16:04:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">寇子</Text>
+</Subtitle>
+<Subtitle SpotNumber="306" TimeIn="00:16:05:083" TimeOut="00:16:06:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">跟人好好说话</Text>
+</Subtitle>
+<Subtitle SpotNumber="307" TimeIn="00:16:11:146" TimeOut="00:16:12:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">同学你好</Text>
+</Subtitle>
+<Subtitle SpotNumber="308" TimeIn="00:16:12:094" TimeOut="00:16:13:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我是游泳队队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="309" TimeIn="00:16:14:135" TimeOut="00:16:15:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们队长在吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="310" TimeIn="00:16:15:240" TimeOut="00:16:16:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你有事吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="311" TimeIn="00:16:16:229" TimeOut="00:16:18:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">有点事跟他商量一下</Text>
+</Subtitle>
+<Subtitle SpotNumber="312" TimeIn="00:16:18:083" TimeOut="00:16:19:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你跟我说就行</Text>
+</Subtitle>
+<Subtitle SpotNumber="313" TimeIn="00:16:20:240" TimeOut="00:16:22:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么不能说吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="314" TimeIn="00:16:22:104" TimeOut="00:16:23:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么了蛐蛐</Text>
+</Subtitle>
+<Subtitle SpotNumber="315" TimeIn="00:16:24:010" TimeOut="00:16:24:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这是我们队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="316" TimeIn="00:16:25:052" TimeOut="00:16:25:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">说呗</Text>
+</Subtitle>
+<Subtitle SpotNumber="317" TimeIn="00:16:26:042" TimeOut="00:16:26:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">是这样的</Text>
+</Subtitle>
+<Subtitle SpotNumber="318" TimeIn="00:16:27:031" TimeOut="00:16:28:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我们呢 要参加一个比赛</Text>
+</Subtitle>
+<Subtitle SpotNumber="319" TimeIn="00:16:28:115" TimeOut="00:16:30:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">现在呢 训练时间比较紧张</Text>
+</Subtitle>
+<Subtitle SpotNumber="320" TimeIn="00:16:30:219" TimeOut="00:16:32:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我看你们也没有教练</Text>
+</Subtitle>
+<Subtitle SpotNumber="321" TimeIn="00:16:32:115" TimeOut="00:16:34:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这个泳池 就先给我们用吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="322" TimeIn="00:16:34:146" TimeOut="00:16:35:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">好吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="323" TimeIn="00:16:37:083" TimeOut="00:16:38:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">谢谢了</Text>
+</Subtitle>
+<Subtitle SpotNumber="324" TimeIn="00:16:39:094" TimeOut="00:16:40:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">走 训练</Text>
+</Subtitle>
+<Subtitle SpotNumber="325" TimeIn="00:16:46:177" TimeOut="00:16:48:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你说让就让啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="326" TimeIn="00:16:49:083" TimeOut="00:16:50:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不然呢</Text>
+</Subtitle>
+<Subtitle SpotNumber="327" TimeIn="00:16:50:135" TimeOut="00:16:52:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">留给你们自学花样游泳啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="328" TimeIn="00:16:53:000" TimeOut="00:16:54:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">屁股扭一扭</Text>
+</Subtitle>
+<Subtitle SpotNumber="329" TimeIn="00:16:54:094" TimeOut="00:16:55:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">上身扭一扭</Text>
+</Subtitle>
+<Subtitle SpotNumber="330" TimeIn="00:16:55:187" TimeOut="00:16:57:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">娘不娘啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="331" TimeIn="00:16:57:083" TimeOut="00:16:58:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">给我站住</Text>
+</Subtitle>
+<Subtitle SpotNumber="332" TimeIn="00:17:00:198" TimeOut="00:17:01:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不是你是不是想单挑啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="333" TimeIn="00:17:02:010" TimeOut="00:17:02:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">可以啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="334" TimeIn="00:17:02:208" TimeOut="00:17:03:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">挑游泳敢吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="335" TimeIn="00:17:04:000" TimeOut="00:17:04:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">敢啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="336" TimeIn="00:17:05:031" TimeOut="00:17:05:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">谁输谁走人</Text>
+</Subtitle>
+<Subtitle SpotNumber="337" TimeIn="00:17:05:240" TimeOut="00:17:07:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">谁输谁滚蛋</Text>
+</Subtitle>
+<Subtitle SpotNumber="338" TimeIn="00:17:07:052" TimeOut="00:17:07:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="339" TimeIn="00:17:07:167" TimeOut="00:17:08:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="340" TimeIn="00:17:08:031" TimeOut="00:17:08:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="341" TimeIn="00:17:08:135" TimeOut="00:17:09:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="342" TimeIn="00:17:09:010" TimeOut="00:17:09:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="343" TimeIn="00:17:09:167" TimeOut="00:17:10:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">张伟</Text>
+</Subtitle>
+<Subtitle SpotNumber="344" TimeIn="00:17:13:167" TimeOut="00:17:14:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">上</Text>
+</Subtitle>
+<Subtitle SpotNumber="345" TimeIn="00:17:15:146" TimeOut="00:17:16:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">啊什么啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="346" TimeIn="00:17:16:104" TimeOut="00:17:17:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你是队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="347" TimeIn="00:17:17:052" TimeOut="00:17:18:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">灭他</Text>
+</Subtitle>
+<Subtitle SpotNumber="348" TimeIn="00:17:21:219" TimeOut="00:17:22:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">寇子</Text>
+</Subtitle>
+<Subtitle SpotNumber="349" TimeIn="00:17:22:135" TimeOut="00:17:23:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别欺负他们</Text>
+</Subtitle>
+<Subtitle SpotNumber="350" TimeIn="00:17:24:094" TimeOut="00:17:25:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">小虫</Text>
+</Subtitle>
+<Subtitle SpotNumber="351" TimeIn="00:17:26:062" TimeOut="00:17:26:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你上</Text>
+</Subtitle>
+<Subtitle SpotNumber="352" TimeIn="00:17:29:208" TimeOut="00:17:30:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你可以的队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="353" TimeIn="00:17:30:135" TimeOut="00:17:31:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">加油</Text>
+</Subtitle>
+<Subtitle SpotNumber="354" TimeIn="00:17:31:062" TimeOut="00:17:32:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">气势已经很足了</Text>
+</Subtitle>
+<Subtitle SpotNumber="355" TimeIn="00:17:34:094" TimeOut="00:17:35:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">预备</Text>
+</Subtitle>
+<Subtitle SpotNumber="356" TimeIn="00:17:37:187" TimeOut="00:17:38:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">加油</Text>
+</Subtitle>
+<Subtitle SpotNumber="357" TimeIn="00:17:39:062" TimeOut="00:17:41:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">队长 加油</Text>
+</Subtitle>
+<Subtitle SpotNumber="358" TimeIn="00:17:48:021" TimeOut="00:17:49:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">快点 张伟</Text>
+</Subtitle>
+<Subtitle SpotNumber="359" TimeIn="00:17:58:198" TimeOut="00:17:59:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么了 张伟</Text>
+</Subtitle>
+<Subtitle SpotNumber="360" TimeIn="00:18:01:073" TimeOut="00:18:02:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">怎么爬上去了</Text>
+</Subtitle>
+<Subtitle SpotNumber="361" TimeIn="00:18:03:083" TimeOut="00:18:04:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">什么情况</Text>
+</Subtitle>
+<Subtitle SpotNumber="362" TimeIn="00:18:05:010" TimeOut="00:18:06:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你什么情况张伟</Text>
+</Subtitle>
+<Subtitle SpotNumber="363" TimeIn="00:18:06:219" TimeOut="00:18:07:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">抽筋啦</Text>
+</Subtitle>
+<Subtitle SpotNumber="364" TimeIn="00:18:07:240" TimeOut="00:18:08:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不行了呗</Text>
+</Subtitle>
+<Subtitle SpotNumber="365" TimeIn="00:18:09:031" TimeOut="00:18:10:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不是谁不行</Text>
+</Subtitle>
+<Subtitle SpotNumber="366" TimeIn="00:18:10:031" TimeOut="00:18:11:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">他不行</Text>
+</Subtitle>
+<Subtitle SpotNumber="367" TimeIn="00:18:11:031" TimeOut="00:18:12:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">不是你行吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="368" TimeIn="00:18:12:073" TimeOut="00:18:12:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我行啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="369" TimeIn="00:18:12:167" TimeOut="00:18:13:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那咱俩来啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="370" TimeIn="00:18:13:208" TimeOut="00:18:14:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你来啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="371" TimeIn="00:18:14:052" TimeOut="00:18:14:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你敢吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="372" TimeIn="00:18:14:219" TimeOut="00:18:15:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">来啊来啊 上</Text>
+</Subtitle>
+<Subtitle SpotNumber="373" TimeIn="00:18:15:125" TimeOut="00:18:16:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">随便上一个人</Text>
+</Subtitle>
+<Subtitle SpotNumber="374" TimeIn="00:18:16:104" TimeOut="00:18:16:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">快点</Text>
+</Subtitle>
+<Subtitle SpotNumber="375" TimeIn="00:18:16:240" TimeOut="00:18:17:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">准备</Text>
+</Subtitle>
+<Subtitle SpotNumber="376" TimeIn="00:18:17:062" TimeOut="00:18:18:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">赖不赖啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="377" TimeIn="00:18:19:021" TimeOut="00:18:19:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">走</Text>
+</Subtitle>
+<Subtitle SpotNumber="378" TimeIn="00:18:25:104" TimeOut="00:18:26:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">游泳队队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="379" TimeIn="00:18:27:031" TimeOut="00:18:28:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">咱俩比一局吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="380" TimeIn="00:18:30:042" TimeOut="00:18:30:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">什么</Text>
+</Subtitle>
+<Subtitle SpotNumber="381" TimeIn="00:18:31:115" TimeOut="00:18:32:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">咱俩比一局</Text>
+</Subtitle>
+<Subtitle SpotNumber="382" TimeIn="00:18:34:073" TimeOut="00:18:34:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">同学</Text>
+</Subtitle>
+<Subtitle SpotNumber="383" TimeIn="00:18:35:031" TimeOut="00:18:36:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这么比下去没完没了啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="384" TimeIn="00:18:37:042" TimeOut="00:18:38:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">一百米还是两百米你选</Text>
+</Subtitle>
+<Subtitle SpotNumber="385" TimeIn="00:18:41:177" TimeOut="00:18:42:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">行吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="386" TimeIn="00:18:42:125" TimeOut="00:18:43:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">两百</Text>
+</Subtitle>
+<Subtitle SpotNumber="387" TimeIn="00:18:43:177" TimeOut="00:18:45:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这回输了可真得走人了啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="388" TimeIn="00:19:05:177" TimeOut="00:19:07:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">各就各位</Text>
+</Subtitle>
+<Subtitle SpotNumber="389" TimeIn="00:19:13:198" TimeOut="00:19:15:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">预备</Text>
+</Subtitle>
+<Subtitle SpotNumber="390" TimeIn="00:19:31:021" TimeOut="00:19:32:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">加油</Text>
+</Subtitle>
+<Subtitle SpotNumber="391" TimeIn="00:19:32:083" TimeOut="00:19:34:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">高飞 加油</Text>
+</Subtitle>
+<Subtitle SpotNumber="392" TimeIn="00:19:47:115" TimeOut="00:19:49:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">高飞 领先了</Text>
+</Subtitle>
+<Subtitle SpotNumber="393" TimeIn="00:19:50:156" TimeOut="00:19:52:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">厉害 厉害</Text>
+</Subtitle>
+<Subtitle SpotNumber="394" TimeIn="00:20:17:219" TimeOut="00:20:19:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别虚啊 高飞</Text>
+</Subtitle>
+<Subtitle SpotNumber="395" TimeIn="00:20:19:000" TimeOut="00:20:19:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">别虚</Text>
+</Subtitle>
+<Subtitle SpotNumber="396" TimeIn="00:20:22:062" TimeOut="00:20:23:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">队长反超了</Text>
+</Subtitle>
+<Subtitle SpotNumber="397" TimeIn="00:20:23:156" TimeOut="00:20:25:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">漂亮</Text>
+</Subtitle>
+<Subtitle SpotNumber="398" TimeIn="00:20:29:229" TimeOut="00:20:30:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">雄起</Text>
+</Subtitle>
+<Subtitle SpotNumber="399" TimeIn="00:20:30:125" TimeOut="00:20:31:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">往上顶</Text>
+</Subtitle>
+<Subtitle SpotNumber="400" TimeIn="00:20:31:073" TimeOut="00:20:31:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">稳住啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="401" TimeIn="00:20:31:167" TimeOut="00:20:32:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">往上顶 高飞</Text>
+</Subtitle>
+<Subtitle SpotNumber="402" TimeIn="00:20:58:021" TimeOut="00:20:59:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">高飞 加油 高飞</Text>
+</Subtitle>
+<Subtitle SpotNumber="403" TimeIn="00:20:59:208" TimeOut="00:21:01:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">冲啊 往前来 高飞</Text>
+</Subtitle>
+<Subtitle SpotNumber="404" TimeIn="00:21:01:083" TimeOut="00:21:02:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">往前冲</Text>
+</Subtitle>
+<Subtitle SpotNumber="405" TimeIn="00:21:02:042" TimeOut="00:21:03:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">稳住稳住</Text>
+</Subtitle>
+<Subtitle SpotNumber="406" TimeIn="00:21:11:177" TimeOut="00:21:12:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">太帅了</Text>
+</Subtitle>
+<Subtitle SpotNumber="407" TimeIn="00:21:14:104" TimeOut="00:21:16:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">太厉害了 高飞</Text>
+</Subtitle>
+<Subtitle SpotNumber="408" TimeIn="00:21:16:052" TimeOut="00:21:17:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">牛啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="409" TimeIn="00:21:18:010" TimeOut="00:21:19:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">牛啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="410" TimeIn="00:21:28:104" TimeOut="00:21:29:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">还有谁要比吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="411" TimeIn="00:21:35:094" TimeOut="00:21:36:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">那就别愣着了</Text>
+</Subtitle>
+<Subtitle SpotNumber="412" TimeIn="00:21:49:052" TimeOut="00:21:50:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">走</Text>
+</Subtitle>
+<Subtitle SpotNumber="413" TimeIn="00:21:54:010" TimeOut="00:21:54:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">走啦</Text>
+</Subtitle>
+<Subtitle SpotNumber="414" TimeIn="00:21:55:000" TimeOut="00:21:55:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">没事</Text>
+</Subtitle>
+<Subtitle SpotNumber="415" TimeIn="00:21:55:177" TimeOut="00:21:56:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">很棒了</Text>
+</Subtitle>
+<Subtitle SpotNumber="416" TimeIn="00:21:56:198" TimeOut="00:21:57:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">继续加油</Text>
+</Subtitle>
+<Subtitle SpotNumber="417" TimeIn="00:21:57:135" TimeOut="00:21:58:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我们下次再比</Text>
+</Subtitle>
+<Subtitle SpotNumber="418" TimeIn="00:21:59:000" TimeOut="00:22:00:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">加油</Text>
+</Subtitle>
+<Subtitle SpotNumber="419" TimeIn="00:22:01:010" TimeOut="00:22:02:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">高飞 太帅了</Text>
+</Subtitle>
+<Subtitle SpotNumber="420" TimeIn="00:22:02:208" TimeOut="00:22:03:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">教我游泳吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="421" TimeIn="00:22:04:042" TimeOut="00:22:05:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你以前是不是练过</Text>
+</Subtitle>
+<Subtitle SpotNumber="422" TimeIn="00:22:06:031" TimeOut="00:22:07:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你教我游呗 行吗</Text>
+</Subtitle>
+<Subtitle SpotNumber="423" TimeIn="00:22:07:146" TimeOut="00:22:08:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">我请你喝饮料</Text>
+</Subtitle>
+<Subtitle SpotNumber="424" TimeIn="00:22:08:073" TimeOut="00:22:09:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你想喝什么喝什么</Text>
+</Subtitle>
+<Subtitle SpotNumber="425" TimeIn="00:22:10:062" TimeOut="00:22:11:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">高飞 行不行</Text>
+</Subtitle>
+<Subtitle SpotNumber="426" TimeIn="00:22:12:135" TimeOut="00:22:14:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你不说话就是答应了啊</Text>
+</Subtitle>
+<Subtitle SpotNumber="427" TimeIn="00:22:14:125" TimeOut="00:22:15:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">师父</Text>
+</Subtitle>
+<Subtitle SpotNumber="428" TimeIn="00:22:15:208" TimeOut="00:22:16:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">太帅了</Text>
+</Subtitle>
+<Subtitle SpotNumber="429" TimeIn="00:22:16:219" TimeOut="00:22:17:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">太帅了</Text>
+</Subtitle>
+<Subtitle SpotNumber="430" TimeIn="00:22:25:229" TimeOut="00:22:27:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="431" TimeIn="00:22:27:167" TimeOut="00:22:29:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">应该是他这样的吧</Text>
+</Subtitle>
+<Subtitle SpotNumber="432" TimeIn="00:22:30:104" TimeOut="00:22:31:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">还抢地盘</Text>
+</Subtitle>
+<Subtitle SpotNumber="433" TimeIn="00:22:31:198" TimeOut="00:22:32:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">反了他们了</Text>
+</Subtitle>
+<Subtitle SpotNumber="434" TimeIn="00:22:32:198" TimeOut="00:22:33:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">谁来咱们都不让</Text>
+</Subtitle>
+<Subtitle SpotNumber="435" TimeIn="00:22:34:062" TimeOut="00:22:34:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">咱们花游队</Text>
+</Subtitle>
+<Subtitle SpotNumber="436" TimeIn="00:22:35:031" TimeOut="00:22:37:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">一不能乱 二不能散</Text>
+</Subtitle>
+<Subtitle SpotNumber="437" TimeIn="00:22:37:167" TimeOut="00:22:38:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你作为队长</Text>
+</Subtitle>
+<Subtitle SpotNumber="438" TimeIn="00:22:39:031" TimeOut="00:22:39:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">无论什么压力</Text>
+</Subtitle>
+<Subtitle SpotNumber="439" TimeIn="00:22:40:021" TimeOut="00:22:41:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你一定给我顶住</Text>
+</Subtitle>
+<Subtitle SpotNumber="440" TimeIn="00:22:41:083" TimeOut="00:22:42:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">你们一定要知道</Text>
+</Subtitle>
+<Subtitle SpotNumber="441" TimeIn="00:22:42:187" TimeOut="00:22:44:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">这一课将成为你们人生中</Text>
+</Subtitle>
+<Subtitle SpotNumber="442" TimeIn="00:22:44:208" TimeOut="00:22:46:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">非常值得铭记的一课</Text>
+</Subtitle>
+<Subtitle SpotNumber="443" TimeIn="00:22:47:021" TimeOut="00:22:48:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">所以你们要珍惜</Text>
+</Subtitle>
+<Subtitle SpotNumber="444" TimeIn="00:22:48:104" TimeOut="00:22:49:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">要拼搏</Text>
+</Subtitle>
+<Subtitle SpotNumber="445" TimeIn="00:22:49:094" TimeOut="00:22:49:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">要</Text>
+</Subtitle>
+<Subtitle SpotNumber="446" TimeIn="00:22:53:062" TimeOut="00:22:54:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">护士</Text>
+</Subtitle>
+<Subtitle SpotNumber="447" TimeIn="00:22:54:187" TimeOut="00:22:55:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">奎老师</Text>
+</Subtitle>
+<Subtitle SpotNumber="448" TimeIn="00:22:58:062" TimeOut="00:22:59:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">喂</Text>
+</Subtitle>
+</Font>
+</DCSubtitle>

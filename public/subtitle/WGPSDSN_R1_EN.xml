@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DCSubtitle Version="1.1">
+<SubtitleID>8cdb24a0-7c94-46d1-8416-2607cc630fa3</SubtitleID>
+<MovieTitle>WGPSDSN_R1_EN</MovieTitle>
+<!--DLP/Interop subtitle file-->
+<ReelNumber>1</ReelNumber>
+<Language>English</Language>
+<!--Supply font with file name: Arial.ttf-->
+<LoadFont Id="Font1" URI="Arial.ttf"></LoadFont>
+<Font Id="Font1" Color="FFFAFBFE" Weight="normal" Size="34" Effect="shadow" EffectColor="FF4C4C4C" AspectAdjust="1.00">
+<Subtitle SpotNumber="1" TimeIn="00:01:29:229" TimeOut="00:01:31:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Are you obedient?</Text>
+</Subtitle>
+<Subtitle SpotNumber="2" TimeIn="00:01:33:094" TimeOut="00:01:34:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Are you?</Text>
+</Subtitle>
+<Subtitle SpotNumber="3" TimeIn="00:01:36:000" TimeOut="00:01:37:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You will be the captain then.</Text>
+</Subtitle>
+<Subtitle SpotNumber="4" TimeIn="00:01:39:021" TimeOut="00:01:40:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">All right, let's get ready to go.</Text>
+</Subtitle>
+<Subtitle SpotNumber="5" TimeIn="00:01:42:219" TimeOut="00:01:43:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">My students.</Text>
+</Subtitle>
+<Subtitle SpotNumber="6" TimeIn="00:01:43:240" TimeOut="00:01:45:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">From now on,</Text>
+</Subtitle>
+<Subtitle SpotNumber="7" TimeIn="00:01:45:052" TimeOut="00:01:47:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">you are on the same team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="8" TimeIn="00:01:47:094" TimeOut="00:01:48:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">When we get there later,</Text>
+</Subtitle>
+<Subtitle SpotNumber="9" TimeIn="00:01:48:240" TimeOut="00:01:49:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">don't run around,</Text>
+</Subtitle>
+<Subtitle SpotNumber="10" TimeIn="00:01:49:240" TimeOut="00:01:50:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">don't look elsewhere,</Text>
+</Subtitle>
+<Subtitle SpotNumber="11" TimeIn="00:01:50:219" TimeOut="00:01:51:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">and don't talk nonsense.</Text>
+</Subtitle>
+<Subtitle SpotNumber="12" TimeIn="00:01:52:052" TimeOut="00:01:53:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do you still remember our school motto?</Text>
+</Subtitle>
+<Subtitle SpotNumber="13" TimeIn="00:01:53:104" TimeOut="00:01:55:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">These are the members of our team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="14" TimeIn="00:01:56:104" TimeOut="00:01:57:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm Zhang Wei,</Text>
+</Subtitle>
+<Subtitle SpotNumber="15" TimeIn="00:01:58:000" TimeOut="00:02:00:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">one of the five students named "Zhang Wei" in Shaohai Third High School.</Text>
+</Subtitle>
+<Subtitle SpotNumber="16" TimeIn="00:02:00:208" TimeOut="00:02:02:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm the most ordinary one among them.</Text>
+</Subtitle>
+<Subtitle SpotNumber="17" TimeIn="00:02:03:094" TimeOut="00:02:04:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I don't have many hobbies,</Text>
+</Subtitle>
+<Subtitle SpotNumber="18" TimeIn="00:02:04:229" TimeOut="00:02:06:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">nor any particular goal.</Text>
+</Subtitle>
+<Subtitle SpotNumber="19" TimeIn="00:02:06:219" TimeOut="00:02:09:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">My results are fine.</Text>
+</Subtitle>
+<Subtitle SpotNumber="20" TimeIn="00:02:09:031" TimeOut="00:02:10:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm telling you. You are not fine.</Text>
+</Subtitle>
+<Subtitle SpotNumber="21" TimeIn="00:02:11:062" TimeOut="00:02:13:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Students like you are the most troublesome.</Text>
+</Subtitle>
+<Subtitle SpotNumber="22" TimeIn="00:02:14:125" TimeOut="00:02:15:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You are neither up nor down,</Text>
+</Subtitle>
+<Subtitle SpotNumber="23" TimeIn="00:02:15:208" TimeOut="00:02:16:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">neither good nor bad.</Text>
+</Subtitle>
+<Subtitle SpotNumber="24" TimeIn="00:02:18:083" TimeOut="00:02:19:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do you think you can slack off as a junior?</Text>
+</Subtitle>
+<Subtitle SpotNumber="25" TimeIn="00:02:20:229" TimeOut="00:02:23:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let me tell you.</Text>
+</Subtitle>
+<Subtitle SpotNumber="26" TimeIn="00:02:23:125" TimeOut="00:02:24:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It will be too late when you become a senior.</Text>
+</Subtitle>
+<Subtitle SpotNumber="27" TimeIn="00:02:25:062" TimeOut="00:02:26:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">In your case...</Text>
+</Subtitle>
+<Subtitle SpotNumber="28" TimeIn="00:02:27:104" TimeOut="00:02:28:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I got 24 marks.</Text>
+</Subtitle>
+<Subtitle SpotNumber="29" TimeIn="00:02:28:198" TimeOut="00:02:30:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Ququ is my best friend.</Text>
+</Subtitle>
+<Subtitle SpotNumber="30" TimeIn="00:02:32:146" TimeOut="00:02:33:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He is naturally hyperactive</Text>
+</Subtitle>
+<Subtitle SpotNumber="31" TimeIn="00:02:34:052" TimeOut="00:02:35:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">and simple minded.</Text>
+</Subtitle>
+<Subtitle SpotNumber="32" TimeIn="00:02:35:229" TimeOut="00:02:37:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come. Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="33" TimeIn="00:02:38:135" TimeOut="00:02:39:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Qu Xiaodong!</Text>
+</Subtitle>
+<Subtitle SpotNumber="34" TimeIn="00:02:39:146" TimeOut="00:02:40:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Get up!</Text>
+</Subtitle>
+<Subtitle SpotNumber="35" TimeIn="00:02:41:229" TimeOut="00:02:44:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You came in last in the class.</Text>
+</Subtitle>
+<Subtitle SpotNumber="36" TimeIn="00:02:44:135" TimeOut="00:02:46:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What is there to be proud of?</Text>
+</Subtitle>
+<Subtitle SpotNumber="37" TimeIn="00:02:46:083" TimeOut="00:02:47:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Go and stand at the back.</Text>
+</Subtitle>
+<Subtitle SpotNumber="38" TimeIn="00:02:50:240" TimeOut="00:02:52:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">In this exam...</Text>
+</Subtitle>
+<Subtitle SpotNumber="39" TimeIn="00:02:54:052" TimeOut="00:02:55:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He always takes our self study class.</Text>
+</Subtitle>
+<Subtitle SpotNumber="40" TimeIn="00:02:56:031" TimeOut="00:02:57:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Don't you think Mr. Xia is crazy?</Text>
+</Subtitle>
+<Subtitle SpotNumber="41" TimeIn="00:02:58:187" TimeOut="00:02:59:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">If he didn't drag me</Text>
+</Subtitle>
+<Subtitle SpotNumber="42" TimeIn="00:02:59:115" TimeOut="00:03:01:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">to join the school swimming team,</Text>
+</Subtitle>
+<Subtitle SpotNumber="43" TimeIn="00:03:01:156" TimeOut="00:03:03:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I might never have the courage</Text>
+</Subtitle>
+<Subtitle SpotNumber="44" TimeIn="00:03:03:219" TimeOut="00:03:06:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">to escape from those annoying self study classes.</Text>
+</Subtitle>
+<Subtitle SpotNumber="45" TimeIn="00:03:10:240" TimeOut="00:03:13:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">There's also Wang Zi who just transferred from the Northeast.</Text>
+</Subtitle>
+<Subtitle SpotNumber="46" TimeIn="00:03:16:187" TimeOut="00:03:17:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let me show you</Text>
+</Subtitle>
+<Subtitle SpotNumber="47" TimeIn="00:03:17:229" TimeOut="00:03:20:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">what is "good looks sealed away by glasses."</Text>
+</Subtitle>
+<Subtitle SpotNumber="48" TimeIn="00:03:21:240" TimeOut="00:03:23:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He has a dorky personality.</Text>
+</Subtitle>
+<Subtitle SpotNumber="49" TimeIn="00:03:25:021" TimeOut="00:03:26:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Are you still recruiting members?</Text>
+</Subtitle>
+<Subtitle SpotNumber="50" TimeIn="00:03:26:240" TimeOut="00:03:28:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He is someone</Text>
+</Subtitle>
+<Subtitle SpotNumber="51" TimeIn="00:03:28:073" TimeOut="00:03:29:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">who loves to make friends.</Text>
+</Subtitle>
+<Subtitle SpotNumber="52" TimeIn="00:03:29:125" TimeOut="00:03:30:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let me join you.</Text>
+</Subtitle>
+<Subtitle SpotNumber="53" TimeIn="00:03:35:208" TimeOut="00:03:38:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Next is Chen Minghan of Class 1, a junior.</Text>
+</Subtitle>
+<Subtitle SpotNumber="54" TimeIn="00:03:39:031" TimeOut="00:03:40:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The overall top scorer is Chen Minghan again.</Text>
+</Subtitle>
+<Subtitle SpotNumber="55" TimeIn="00:03:41:198" TimeOut="00:03:43:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He always ranked first in various subjects.</Text>
+</Subtitle>
+<Subtitle SpotNumber="56" TimeIn="00:03:45:208" TimeOut="00:03:48:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Chen Minghan,I'm not asking about the subject.</Text>
+</Subtitle>
+<Subtitle SpotNumber="57" TimeIn="00:03:48:073" TimeOut="00:03:49:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm asking about your hobby.</Text>
+</Subtitle>
+<Subtitle SpotNumber="58" TimeIn="00:03:49:167" TimeOut="00:03:50:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm talking about my hobby.</Text>
+</Subtitle>
+<Subtitle SpotNumber="59" TimeIn="00:03:51:021" TimeOut="00:03:52:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Trigonometric functions are my hobby.</Text>
+</Subtitle>
+<Subtitle SpotNumber="60" TimeIn="00:03:53:031" TimeOut="00:03:55:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He could be the "model child"</Text>
+</Subtitle>
+<Subtitle SpotNumber="61" TimeIn="00:03:55:073" TimeOut="00:03:56:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">my mom often talks about.</Text>
+</Subtitle>
+<Subtitle SpotNumber="62" TimeIn="00:03:58:073" TimeOut="00:03:59:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Gao Fei.</Text>
+</Subtitle>
+<Subtitle SpotNumber="63" TimeIn="00:03:59:167" TimeOut="00:04:01:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He is the best sports student at our school.</Text>
+</Subtitle>
+<Subtitle SpotNumber="64" TimeIn="00:04:03:000" TimeOut="00:04:05:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Yet he refused to join any sports clubs.</Text>
+</Subtitle>
+<Subtitle SpotNumber="65" TimeIn="00:04:07:000" TimeOut="00:04:08:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">In everyone's eyes,</Text>
+</Subtitle>
+<Subtitle SpotNumber="66" TimeIn="00:04:08:208" TimeOut="00:04:10:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">he looks cool and mysterious.</Text>
+</Subtitle>
+<Subtitle SpotNumber="67" TimeIn="00:04:17:073" TimeOut="00:04:18:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It's on fire!</Text>
+</Subtitle>
+<Subtitle SpotNumber="68" TimeIn="00:04:18:052" TimeOut="00:04:18:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What?</Text>
+</Subtitle>
+<Subtitle SpotNumber="69" TimeIn="00:04:18:125" TimeOut="00:04:20:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Your shirt is on fire!</Text>
+</Subtitle>
+<Subtitle SpotNumber="70" TimeIn="00:04:27:187" TimeOut="00:04:28:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What happened?</Text>
+</Subtitle>
+<Subtitle SpotNumber="71" TimeIn="00:04:29:125" TimeOut="00:04:30:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Did you do this?</Text>
+</Subtitle>
+<Subtitle SpotNumber="72" TimeIn="00:04:33:010" TimeOut="00:04:33:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I?</Text>
+</Subtitle>
+<Subtitle SpotNumber="73" TimeIn="00:04:36:115" TimeOut="00:04:37:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">There was a loose thread on your shirt.</Text>
+</Subtitle>
+<Subtitle SpotNumber="74" TimeIn="00:04:42:010" TimeOut="00:04:43:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Mr. Kui is our coach.</Text>
+</Subtitle>
+<Subtitle SpotNumber="75" TimeIn="00:04:44:000" TimeOut="00:04:45:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He is passionate about his job.</Text>
+</Subtitle>
+<Subtitle SpotNumber="76" TimeIn="00:04:46:135" TimeOut="00:04:47:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He is overenthusiastic</Text>
+</Subtitle>
+<Subtitle SpotNumber="77" TimeIn="00:04:48:010" TimeOut="00:04:49:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">in all that he does.</Text>
+</Subtitle>
+<Subtitle SpotNumber="78" TimeIn="00:04:49:021" TimeOut="00:04:50:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You have to get me two swimmers from the team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="79" TimeIn="00:04:50:177" TimeOut="00:04:52:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">During the High School Water Sports Meeting,</Text>
+</Subtitle>
+<Subtitle SpotNumber="80" TimeIn="00:04:52:219" TimeOut="00:04:53:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">However, with too much enthusiasm,</Text>
+</Subtitle>
+<Subtitle SpotNumber="81" TimeIn="00:04:54:146" TimeOut="00:04:55:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">it's easy</Text>
+</Subtitle>
+<Subtitle SpotNumber="82" TimeIn="00:04:56:219" TimeOut="00:04:57:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">to be sleepy.</Text>
+</Subtitle>
+<Subtitle SpotNumber="83" TimeIn="00:04:57:187" TimeOut="00:05:00:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">under the premise of ensuring the quality of learning.</Text>
+</Subtitle>
+<Subtitle SpotNumber="84" TimeIn="00:05:00:146" TimeOut="00:05:01:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">So we are hoping that</Text>
+</Subtitle>
+<Subtitle SpotNumber="85" TimeIn="00:05:02:010" TimeOut="00:05:04:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">each school will look at their own circumstances</Text>
+</Subtitle>
+<Subtitle SpotNumber="86" TimeIn="00:05:04:083" TimeOut="00:05:06:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">and put together this men's?</Text>
+</Subtitle>
+<Subtitle SpotNumber="87" TimeIn="00:05:06:125" TimeOut="00:05:07:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It's "women's."</Text>
+</Subtitle>
+<Subtitle SpotNumber="88" TimeIn="00:05:08:219" TimeOut="00:05:09:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">No.</Text>
+</Subtitle>
+<Subtitle SpotNumber="89" TimeIn="00:05:09:156" TimeOut="00:05:11:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It's a women's synchronized swimming team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="90" TimeIn="00:05:12:042" TimeOut="00:05:13:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Of course.</Text>
+</Subtitle>
+<Subtitle SpotNumber="91" TimeIn="00:05:13:052" TimeOut="00:05:16:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">If there is any school that would want to form a men's team,</Text>
+</Subtitle>
+<Subtitle SpotNumber="92" TimeIn="00:05:16:083" TimeOut="00:05:17:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">we would welcome it equally.</Text>
+</Subtitle>
+<Subtitle SpotNumber="93" TimeIn="00:05:20:187" TimeOut="00:05:22:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">This has an innovative meaning to it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="94" TimeIn="00:05:22:240" TimeOut="00:05:26:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Instead of focusing on college entrance exams</Text>
+</Subtitle>
+<Subtitle SpotNumber="95" TimeIn="00:05:26:219" TimeOut="00:05:28:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What did the chief just say?</Text>
+</Subtitle>
+<Subtitle SpotNumber="96" TimeIn="00:05:28:135" TimeOut="00:05:30:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">About forming a men's synchronized swimming team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="97" TimeIn="00:05:37:135" TimeOut="00:05:39:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The chief was just joking?</Text>
+</Subtitle>
+<Subtitle SpotNumber="98" TimeIn="00:05:42:021" TimeOut="00:05:43:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The other schools formed women's teams?</Text>
+</Subtitle>
+<Subtitle SpotNumber="99" TimeIn="00:05:45:240" TimeOut="00:05:47:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It's just our school that formed a men's team?</Text>
+</Subtitle>
+<Subtitle SpotNumber="100" TimeIn="00:05:50:125" TimeOut="00:05:51:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I got it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="101" TimeIn="00:05:55:104" TimeOut="00:05:56:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Okay.</Text>
+</Subtitle>
+<Subtitle SpotNumber="102" TimeIn="00:05:57:021" TimeOut="00:05:58:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Okay, bye.</Text>
+</Subtitle>
+<Subtitle SpotNumber="103" TimeIn="00:06:04:146" TimeOut="00:06:07:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">How can you not even know the gender?</Text>
+</Subtitle>
+<Subtitle SpotNumber="104" TimeIn="00:06:08:010" TimeOut="00:06:08:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The chief was joking.</Text>
+</Subtitle>
+<Subtitle SpotNumber="105" TimeIn="00:06:09:052" TimeOut="00:06:10:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Couldn't you tell?</Text>
+</Subtitle>
+<Subtitle SpotNumber="106" TimeIn="00:06:10:156" TimeOut="00:06:12:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">There's not a single men's synchronized swimming team</Text>
+</Subtitle>
+<Subtitle SpotNumber="107" TimeIn="00:06:13:000" TimeOut="00:06:14:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">in this country that is complete.</Text>
+</Subtitle>
+<Subtitle SpotNumber="108" TimeIn="00:06:15:062" TimeOut="00:06:16:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">If that's the case,</Text>
+</Subtitle>
+<Subtitle SpotNumber="109" TimeIn="00:06:16:052" TimeOut="00:06:17:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">what should we do now?</Text>
+</Subtitle>
+<Subtitle SpotNumber="110" TimeIn="00:06:17:208" TimeOut="00:06:18:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What else can we do?</Text>
+</Subtitle>
+<Subtitle SpotNumber="111" TimeIn="00:06:18:208" TimeOut="00:06:19:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">We have already submitted it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="112" TimeIn="00:06:20:062" TimeOut="00:06:21:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You should recruit the members first.</Text>
+</Subtitle>
+<Subtitle SpotNumber="113" TimeIn="00:06:21:229" TimeOut="00:06:23:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Don't let the headmaster find out</Text>
+</Subtitle>
+<Subtitle SpotNumber="114" TimeIn="00:06:23:187" TimeOut="00:06:24:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">that there are not enough members.</Text>
+</Subtitle>
+<Subtitle SpotNumber="115" TimeIn="00:06:25:156" TimeOut="00:06:26:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Okay.</Text>
+</Subtitle>
+<Subtitle SpotNumber="116" TimeIn="00:06:27:177" TimeOut="00:06:28:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">How many have you recruited?</Text>
+</Subtitle>
+<Subtitle SpotNumber="117" TimeIn="00:06:29:042" TimeOut="00:06:29:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Five.</Text>
+</Subtitle>
+<Subtitle SpotNumber="118" TimeIn="00:06:30:042" TimeOut="00:06:31:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">We already have five members.</Text>
+</Subtitle>
+<Subtitle SpotNumber="119" TimeIn="00:06:38:240" TimeOut="00:06:40:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The five of you</Text>
+</Subtitle>
+<Subtitle SpotNumber="120" TimeIn="00:06:40:125" TimeOut="00:06:42:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">must show the good mental health</Text>
+</Subtitle>
+<Subtitle SpotNumber="121" TimeIn="00:06:42:115" TimeOut="00:06:44:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">of high school students.</Text>
+</Subtitle>
+<Subtitle SpotNumber="122" TimeIn="00:06:45:208" TimeOut="00:06:46:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Right.</Text>
+</Subtitle>
+<Subtitle SpotNumber="123" TimeIn="00:06:46:208" TimeOut="00:06:50:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Welcome to the Men's Synchronized Swimming Team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="124" TimeIn="00:06:52:104" TimeOut="00:06:53:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm in Class 2.</Text>
+</Subtitle>
+<Subtitle SpotNumber="125" TimeIn="00:06:53:115" TimeOut="00:06:53:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">My surname is Wang.</Text>
+</Subtitle>
+<Subtitle SpotNumber="126" TimeIn="00:06:54:042" TimeOut="00:06:55:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm Wang Zi.</Text>
+</Subtitle>
+<Subtitle SpotNumber="127" TimeIn="00:06:55:177" TimeOut="00:06:56:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm in Class 7.</Text>
+</Subtitle>
+<Subtitle SpotNumber="128" TimeIn="00:06:56:125" TimeOut="00:06:57:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">My surname is "Father."</Text>
+</Subtitle>
+<Subtitle SpotNumber="129" TimeIn="00:06:57:104" TimeOut="00:06:58:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm "King Father."</Text>
+</Subtitle>
+<Subtitle SpotNumber="130" TimeIn="00:07:02:229" TimeOut="00:07:04:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Isn't this a swimming team?</Text>
+</Subtitle>
+<Subtitle SpotNumber="131" TimeIn="00:07:04:052" TimeOut="00:07:05:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">How did it become synchronized swimming?</Text>
+</Subtitle>
+<Subtitle SpotNumber="132" TimeIn="00:07:13:115" TimeOut="00:07:14:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Synchronized swimming</Text>
+</Subtitle>
+<Subtitle SpotNumber="133" TimeIn="00:07:14:125" TimeOut="00:07:16:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">is also known as water ballet.</Text>
+</Subtitle>
+<Subtitle SpotNumber="134" TimeIn="00:07:17:010" TimeOut="00:07:18:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It originated in Europe.</Text>
+</Subtitle>
+<Subtitle SpotNumber="135" TimeIn="00:07:18:135" TimeOut="00:07:19:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It started</Text>
+</Subtitle>
+<Subtitle SpotNumber="136" TimeIn="00:07:19:125" TimeOut="00:07:21:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">as a performance</Text>
+</Subtitle>
+<Subtitle SpotNumber="137" TimeIn="00:07:21:073" TimeOut="00:07:23:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">during the intervals of swimming competitions.</Text>
+</Subtitle>
+<Subtitle SpotNumber="138" TimeIn="00:07:23:052" TimeOut="00:07:25:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It is highly artistic</Text>
+</Subtitle>
+<Subtitle SpotNumber="139" TimeIn="00:07:25:010" TimeOut="00:07:26:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">and requires certain techniques,</Text>
+</Subtitle>
+<Subtitle SpotNumber="140" TimeIn="00:07:26:177" TimeOut="00:07:28:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">along with dancing and strength basics.</Text>
+</Subtitle>
+<Subtitle SpotNumber="141" TimeIn="00:07:28:208" TimeOut="00:07:29:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">In general,</Text>
+</Subtitle>
+<Subtitle SpotNumber="142" TimeIn="00:07:29:156" TimeOut="00:07:30:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">synchronized swimming is divided into</Text>
+</Subtitle>
+<Subtitle SpotNumber="143" TimeIn="00:07:31:000" TimeOut="00:07:31:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">solo,</Text>
+</Subtitle>
+<Subtitle SpotNumber="144" TimeIn="00:07:31:177" TimeOut="00:07:32:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">duet,</Text>
+</Subtitle>
+<Subtitle SpotNumber="145" TimeIn="00:07:32:156" TimeOut="00:07:33:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">mixed duet,</Text>
+</Subtitle>
+<Subtitle SpotNumber="146" TimeIn="00:07:33:104" TimeOut="00:07:34:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">and team categories.</Text>
+</Subtitle>
+<Subtitle SpotNumber="147" TimeIn="00:07:34:177" TimeOut="00:07:36:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Based on the Olympic standards and rules,</Text>
+</Subtitle>
+<Subtitle SpotNumber="148" TimeIn="00:07:36:198" TimeOut="00:07:39:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">it has to be eight people in a team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="149" TimeIn="00:07:43:073" TimeOut="00:07:44:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">She is talking to all of you.</Text>
+</Subtitle>
+<Subtitle SpotNumber="150" TimeIn="00:07:44:156" TimeOut="00:07:45:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Can you guys focus?</Text>
+</Subtitle>
+<Subtitle SpotNumber="151" TimeIn="00:07:45:208" TimeOut="00:07:46:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Mr. Kui.</Text>
+</Subtitle>
+<Subtitle SpotNumber="152" TimeIn="00:07:46:104" TimeOut="00:07:48:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I have other training plans.</Text>
+</Subtitle>
+<Subtitle SpotNumber="153" TimeIn="00:07:48:042" TimeOut="00:07:48:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'll get going.</Text>
+</Subtitle>
+<Subtitle SpotNumber="154" TimeIn="00:07:49:000" TimeOut="00:07:49:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm sorry.</Text>
+</Subtitle>
+<Subtitle SpotNumber="155" TimeIn="00:07:49:104" TimeOut="00:07:50:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'll leave you to it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="156" TimeIn="00:07:50:156" TimeOut="00:07:51:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Sorry for the trouble.</Text>
+</Subtitle>
+<Subtitle SpotNumber="157" TimeIn="00:07:51:135" TimeOut="00:07:52:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Mr. Kui.</Text>
+</Subtitle>
+<Subtitle SpotNumber="158" TimeIn="00:07:52:125" TimeOut="00:07:53:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do we have to do this too?</Text>
+</Subtitle>
+<Subtitle SpotNumber="159" TimeIn="00:07:54:021" TimeOut="00:07:55:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">They are all girls.</Text>
+</Subtitle>
+<Subtitle SpotNumber="160" TimeIn="00:07:55:052" TimeOut="00:07:56:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What's wrong with girls?</Text>
+</Subtitle>
+<Subtitle SpotNumber="161" TimeIn="00:07:56:167" TimeOut="00:07:57:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">If girls can learn boxing,</Text>
+</Subtitle>
+<Subtitle SpotNumber="162" TimeIn="00:07:57:187" TimeOut="00:07:59:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">why can't boys learn synchronized swimming?</Text>
+</Subtitle>
+<Subtitle SpotNumber="163" TimeIn="00:07:59:083" TimeOut="00:08:00:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Look carefully.</Text>
+</Subtitle>
+<Subtitle SpotNumber="164" TimeIn="00:08:00:073" TimeOut="00:08:01:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Look at their movements.</Text>
+</Subtitle>
+<Subtitle SpotNumber="165" TimeIn="00:08:01:125" TimeOut="00:08:02:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Look at the formations.</Text>
+</Subtitle>
+<Subtitle SpotNumber="166" TimeIn="00:08:02:198" TimeOut="00:08:03:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Don't look away.</Text>
+</Subtitle>
+<Subtitle SpotNumber="167" TimeIn="00:08:17:062" TimeOut="00:08:18:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It's unreliable.</Text>
+</Subtitle>
+<Subtitle SpotNumber="168" TimeIn="00:08:18:083" TimeOut="00:08:19:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What's wrong?</Text>
+</Subtitle>
+<Subtitle SpotNumber="169" TimeIn="00:08:19:073" TimeOut="00:08:21:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">A few boys doing synchronized swimming.</Text>
+</Subtitle>
+<Subtitle SpotNumber="170" TimeIn="00:08:21:104" TimeOut="00:08:22:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Doesn't it feel strange?</Text>
+</Subtitle>
+<Subtitle SpotNumber="171" TimeIn="00:08:22:198" TimeOut="00:08:24:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Also, there are only five of us.</Text>
+</Subtitle>
+<Subtitle SpotNumber="172" TimeIn="00:08:25:146" TimeOut="00:08:26:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What about that?</Text>
+</Subtitle>
+<Subtitle SpotNumber="173" TimeIn="00:08:26:198" TimeOut="00:08:28:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">How can the five of us slack off?</Text>
+</Subtitle>
+<Subtitle SpotNumber="174" TimeIn="00:08:28:208" TimeOut="00:08:30:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Besides, Mr. Kui mentioned a competition.</Text>
+</Subtitle>
+<Subtitle SpotNumber="175" TimeIn="00:08:30:083" TimeOut="00:08:31:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">We will have to train for real then.</Text>
+</Subtitle>
+<Subtitle SpotNumber="176" TimeIn="00:08:33:073" TimeOut="00:08:34:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What should we do?</Text>
+</Subtitle>
+<Subtitle SpotNumber="177" TimeIn="00:08:35:198" TimeOut="00:08:36:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's go to a soccer team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="178" TimeIn="00:08:37:094" TimeOut="00:08:38:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">There are so many people.</Text>
+</Subtitle>
+<Subtitle SpotNumber="179" TimeIn="00:08:38:167" TimeOut="00:08:39:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Or a basketball team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="180" TimeIn="00:08:39:229" TimeOut="00:08:40:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">There are dozens of them.</Text>
+</Subtitle>
+<Subtitle SpotNumber="181" TimeIn="00:08:41:062" TimeOut="00:08:41:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Hey, guys.</Text>
+</Subtitle>
+<Subtitle SpotNumber="182" TimeIn="00:08:42:010" TimeOut="00:08:42:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Class is starting.</Text>
+</Subtitle>
+<Subtitle SpotNumber="183" TimeIn="00:08:46:042" TimeOut="00:08:47:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">In this self study class,</Text>
+</Subtitle>
+<Subtitle SpotNumber="184" TimeIn="00:08:47:219" TimeOut="00:08:49:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">let me share a way</Text>
+</Subtitle>
+<Subtitle SpotNumber="185" TimeIn="00:08:49:094" TimeOut="00:08:51:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">of problem solving at the Nobel Prize level.</Text>
+</Subtitle>
+<Subtitle SpotNumber="186" TimeIn="00:08:52:198" TimeOut="00:08:53:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="187" TimeIn="00:08:53:229" TimeOut="00:08:56:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's look at this hero.</Text>
+</Subtitle>
+<Subtitle SpotNumber="188" TimeIn="00:08:56:083" TimeOut="00:08:58:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's see how did he get the piece of weight</Text>
+</Subtitle>
+<Subtitle SpotNumber="189" TimeIn="00:08:58:229" TimeOut="00:08:59:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">to fall.</Text>
+</Subtitle>
+<Subtitle SpotNumber="190" TimeIn="00:09:00:073" TimeOut="00:09:01:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's take a look.</Text>
+</Subtitle>
+<Subtitle SpotNumber="191" TimeIn="00:09:02:125" TimeOut="00:09:03:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Click.</Text>
+</Subtitle>
+<Subtitle SpotNumber="192" TimeIn="00:09:03:094" TimeOut="00:09:04:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He cut it off</Text>
+</Subtitle>
+<Subtitle SpotNumber="193" TimeIn="00:09:04:208" TimeOut="00:09:06:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">with a Blood Drinking Blade.</Text>
+</Subtitle>
+<Subtitle SpotNumber="194" TimeIn="00:09:07:229" TimeOut="00:09:08:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That's amazing.</Text>
+</Subtitle>
+<Subtitle SpotNumber="195" TimeIn="00:09:09:135" TimeOut="00:09:10:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Qu Xiaodong.</Text>
+</Subtitle>
+<Subtitle SpotNumber="196" TimeIn="00:09:11:219" TimeOut="00:09:12:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Where is he?</Text>
+</Subtitle>
+<Subtitle SpotNumber="197" TimeIn="00:09:14:000" TimeOut="00:09:14:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Where is he?</Text>
+</Subtitle>
+<Subtitle SpotNumber="198" TimeIn="00:09:15:010" TimeOut="00:09:15:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Excuse me.</Text>
+</Subtitle>
+<Subtitle SpotNumber="199" TimeIn="00:09:17:021" TimeOut="00:09:17:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Excuse me, sir.</Text>
+</Subtitle>
+<Subtitle SpotNumber="200" TimeIn="00:09:18:031" TimeOut="00:09:19:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">We have training today.</Text>
+</Subtitle>
+<Subtitle SpotNumber="201" TimeIn="00:09:20:073" TimeOut="00:09:21:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Hurry up, Zhang Wei.</Text>
+</Subtitle>
+<Subtitle SpotNumber="202" TimeIn="00:09:21:115" TimeOut="00:09:23:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The coach will scold us if we are late.</Text>
+</Subtitle>
+<Subtitle SpotNumber="203" TimeIn="00:09:24:219" TimeOut="00:09:25:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Excuse me, Mr. Xia.</Text>
+</Subtitle>
+<Subtitle SpotNumber="204" TimeIn="00:09:26:073" TimeOut="00:09:27:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Mr. Xia, I'll see you tomorrow.</Text>
+</Subtitle>
+<Subtitle SpotNumber="205" TimeIn="00:09:30:146" TimeOut="00:09:31:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Didn't you say you won't go?</Text>
+</Subtitle>
+<Subtitle SpotNumber="206" TimeIn="00:09:31:187" TimeOut="00:09:32:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">As long as we skip this class,</Text>
+</Subtitle>
+<Subtitle SpotNumber="207" TimeIn="00:09:32:187" TimeOut="00:09:33:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm fine with anything. Let's go.</Text>
+</Subtitle>
+<Subtitle SpotNumber="208" TimeIn="00:09:39:146" TimeOut="00:09:40:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">This is great!</Text>
+</Subtitle>
+<Subtitle SpotNumber="209" TimeIn="00:09:40:240" TimeOut="00:09:41:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Captain, jump in!</Text>
+</Subtitle>
+<Subtitle SpotNumber="210" TimeIn="00:09:42:062" TimeOut="00:09:42:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="211" TimeIn="00:09:53:031" TimeOut="00:09:53:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What are you doing?</Text>
+</Subtitle>
+<Subtitle SpotNumber="212" TimeIn="00:09:54:083" TimeOut="00:09:55:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I went to the bathroom.</Text>
+</Subtitle>
+<Subtitle SpotNumber="213" TimeIn="00:09:55:052" TimeOut="00:09:56:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What are you doing now?</Text>
+</Subtitle>
+<Subtitle SpotNumber="214" TimeIn="00:09:56:229" TimeOut="00:09:57:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm sitting down.</Text>
+</Subtitle>
+<Subtitle SpotNumber="215" TimeIn="00:09:57:198" TimeOut="00:09:58:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Sitting down?</Text>
+</Subtitle>
+<Subtitle SpotNumber="216" TimeIn="00:09:59:000" TimeOut="00:10:00:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Did I ask you to come here to sit down?</Text>
+</Subtitle>
+<Subtitle SpotNumber="217" TimeIn="00:10:00:208" TimeOut="00:10:02:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'll pay for your clothes and wallet.</Text>
+</Subtitle>
+<Subtitle SpotNumber="218" TimeIn="00:10:02:021" TimeOut="00:10:02:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let me go.</Text>
+</Subtitle>
+<Subtitle SpotNumber="219" TimeIn="00:10:10:115" TimeOut="00:10:12:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You! What are you doing as a captain?</Text>
+</Subtitle>
+<Subtitle SpotNumber="220" TimeIn="00:10:12:083" TimeOut="00:10:13:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Hurry up and gather at the starting point!</Text>
+</Subtitle>
+<Subtitle SpotNumber="221" TimeIn="00:10:14:177" TimeOut="00:10:15:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You two!</Text>
+</Subtitle>
+<Subtitle SpotNumber="222" TimeIn="00:10:15:156" TimeOut="00:10:16:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Gather at the starting point!</Text>
+</Subtitle>
+<Subtitle SpotNumber="223" TimeIn="00:10:30:156" TimeOut="00:10:31:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Listen to me.</Text>
+</Subtitle>
+<Subtitle SpotNumber="224" TimeIn="00:10:32:115" TimeOut="00:10:33:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You guys.</Text>
+</Subtitle>
+<Subtitle SpotNumber="225" TimeIn="00:10:33:156" TimeOut="00:10:36:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You must take this training seriously.</Text>
+</Subtitle>
+<Subtitle SpotNumber="226" TimeIn="00:10:36:177" TimeOut="00:10:38:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">This will become</Text>
+</Subtitle>
+<Subtitle SpotNumber="227" TimeIn="00:10:38:167" TimeOut="00:10:41:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">a very memorable lesson in your life.</Text>
+</Subtitle>
+<Subtitle SpotNumber="228" TimeIn="00:10:42:010" TimeOut="00:10:43:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You have to be brave.</Text>
+</Subtitle>
+<Subtitle SpotNumber="229" TimeIn="00:10:43:094" TimeOut="00:10:44:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You have to fight.</Text>
+</Subtitle>
+<Subtitle SpotNumber="230" TimeIn="00:10:45:000" TimeOut="00:10:46:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You have to be fearless.</Text>
+</Subtitle>
+<Subtitle SpotNumber="231" TimeIn="00:10:47:167" TimeOut="00:10:48:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Listen to my whistle.</Text>
+</Subtitle>
+<Subtitle SpotNumber="232" TimeIn="00:10:49:000" TimeOut="00:10:50:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Once you hear it,</Text>
+</Subtitle>
+<Subtitle SpotNumber="233" TimeIn="00:10:50:167" TimeOut="00:10:51:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">do your best</Text>
+</Subtitle>
+<Subtitle SpotNumber="234" TimeIn="00:10:51:167" TimeOut="00:10:52:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">and sprint to the other side.</Text>
+</Subtitle>
+<Subtitle SpotNumber="235" TimeIn="00:10:53:021" TimeOut="00:10:55:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Show me how outstanding you are.</Text>
+</Subtitle>
+<Subtitle SpotNumber="236" TimeIn="00:10:55:187" TimeOut="00:10:56:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">All right?</Text>
+</Subtitle>
+<Subtitle SpotNumber="237" TimeIn="00:10:57:219" TimeOut="00:10:58:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Get ready.</Text>
+</Subtitle>
+<Subtitle SpotNumber="238" TimeIn="00:10:59:073" TimeOut="00:11:00:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Focus your energy.</Text>
+</Subtitle>
+<Subtitle SpotNumber="239" TimeIn="00:11:01:073" TimeOut="00:11:02:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Ready.</Text>
+</Subtitle>
+<Subtitle SpotNumber="240" TimeIn="00:11:07:125" TimeOut="00:11:08:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Call me if you need anything.</Text>
+</Subtitle>
+<Subtitle SpotNumber="241" TimeIn="00:11:13:042" TimeOut="00:11:13:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Headmaster.</Text>
+</Subtitle>
+<Subtitle SpotNumber="242" TimeIn="00:11:14:115" TimeOut="00:11:14:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That's right.</Text>
+</Subtitle>
+<Subtitle SpotNumber="243" TimeIn="00:11:14:219" TimeOut="00:11:16:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He has been taken to the hospital.</Text>
+</Subtitle>
+<Subtitle SpotNumber="244" TimeIn="00:11:16:240" TimeOut="00:11:17:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Xiaofu is with him.</Text>
+</Subtitle>
+<Subtitle SpotNumber="245" TimeIn="00:11:18:167" TimeOut="00:11:20:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'll keep you posted.</Text>
+</Subtitle>
+<Subtitle SpotNumber="246" TimeIn="00:11:30:135" TimeOut="00:11:32:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Freedom!</Text>
+</Subtitle>
+<Subtitle SpotNumber="247" TimeIn="00:11:47:083" TimeOut="00:11:48:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">In my notes,</Text>
+</Subtitle>
+<Subtitle SpotNumber="248" TimeIn="00:11:48:125" TimeOut="00:11:49:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">there is your training plan.</Text>
+</Subtitle>
+<Subtitle SpotNumber="249" TimeIn="00:11:50:042" TimeOut="00:11:51:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You have to understand it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="250" TimeIn="00:11:52:021" TimeOut="00:11:53:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Use it to lead the team and build the basics.</Text>
+</Subtitle>
+<Subtitle SpotNumber="251" TimeIn="00:11:54:000" TimeOut="00:11:54:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Get in the mood.</Text>
+</Subtitle>
+<Subtitle SpotNumber="252" TimeIn="00:11:56:062" TimeOut="00:11:57:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">When the coach is absent,</Text>
+</Subtitle>
+<Subtitle SpotNumber="253" TimeIn="00:11:57:219" TimeOut="00:11:59:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">the captain is the coach.</Text>
+</Subtitle>
+<Subtitle SpotNumber="254" TimeIn="00:11:59:156" TimeOut="00:12:00:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do you understand?</Text>
+</Subtitle>
+<Subtitle SpotNumber="255" TimeIn="00:12:00:240" TimeOut="00:12:02:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">So as the captain,</Text>
+</Subtitle>
+<Subtitle SpotNumber="256" TimeIn="00:12:02:115" TimeOut="00:12:03:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">you must take responsibility.</Text>
+</Subtitle>
+<Subtitle SpotNumber="257" TimeIn="00:12:03:187" TimeOut="00:12:04:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do you hear me?</Text>
+</Subtitle>
+<Subtitle SpotNumber="258" TimeIn="00:12:06:104" TimeOut="00:12:08:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">But I have never been a captain.</Text>
+</Subtitle>
+<Subtitle SpotNumber="259" TimeIn="00:12:08:229" TimeOut="00:12:10:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">How should I take responsibility?</Text>
+</Subtitle>
+<Subtitle SpotNumber="260" TimeIn="00:12:12:000" TimeOut="00:12:13:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I have to lead our training too.</Text>
+</Subtitle>
+<Subtitle SpotNumber="261" TimeIn="00:12:17:000" TimeOut="00:12:18:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">How can we train?</Text>
+</Subtitle>
+<Subtitle SpotNumber="262" TimeIn="00:12:18:062" TimeOut="00:12:18:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Zhang Wei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="263" TimeIn="00:12:19:104" TimeOut="00:12:19:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Zhang Wei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="264" TimeIn="00:12:20:062" TimeOut="00:12:21:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's race.</Text>
+</Subtitle>
+<Subtitle SpotNumber="265" TimeIn="00:12:21:146" TimeOut="00:12:22:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm busy.</Text>
+</Subtitle>
+<Subtitle SpotNumber="266" TimeIn="00:12:23:083" TimeOut="00:12:25:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It's not right if you don't get into the pool.</Text>
+</Subtitle>
+<Subtitle SpotNumber="267" TimeIn="00:12:25:198" TimeOut="00:12:26:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Chen Minghan!</Text>
+</Subtitle>
+<Subtitle SpotNumber="268" TimeIn="00:12:27:000" TimeOut="00:12:28:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's have a race.</Text>
+</Subtitle>
+<Subtitle SpotNumber="269" TimeIn="00:12:28:104" TimeOut="00:12:29:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come.</Text>
+</Subtitle>
+<Subtitle SpotNumber="270" TimeIn="00:12:29:073" TimeOut="00:12:30:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's race again.</Text>
+</Subtitle>
+<Subtitle SpotNumber="271" TimeIn="00:12:31:052" TimeOut="00:12:32:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You won't do.</Text>
+</Subtitle>
+<Subtitle SpotNumber="272" TimeIn="00:12:32:104" TimeOut="00:12:33:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's hold our breaths.</Text>
+</Subtitle>
+<Subtitle SpotNumber="273" TimeIn="00:12:33:115" TimeOut="00:12:34:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The loser buys drinks.</Text>
+</Subtitle>
+<Subtitle SpotNumber="274" TimeIn="00:12:35:000" TimeOut="00:12:35:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Sure, let's do it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="275" TimeIn="00:12:36:073" TimeOut="00:12:37:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You said it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="276" TimeIn="00:12:37:115" TimeOut="00:12:38:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Won't you wish me good luck?</Text>
+</Subtitle>
+<Subtitle SpotNumber="277" TimeIn="00:12:38:177" TimeOut="00:12:39:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Just stay alive.</Text>
+</Subtitle>
+<Subtitle SpotNumber="278" TimeIn="00:12:39:146" TimeOut="00:12:40:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Ready.</Text>
+</Subtitle>
+<Subtitle SpotNumber="279" TimeIn="00:12:40:062" TimeOut="00:12:42:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">One, two, three.</Text>
+</Subtitle>
+<Subtitle SpotNumber="280" TimeIn="00:14:28:198" TimeOut="00:14:29:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Mom and Dad are busy tonight.</Text>
+</Subtitle>
+<Subtitle SpotNumber="281" TimeIn="00:14:29:208" TimeOut="00:14:30:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I have to study.</Text>
+</Subtitle>
+<Subtitle SpotNumber="282" TimeIn="00:14:31:000" TimeOut="00:14:32:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Go home by yourself today.</Text>
+</Subtitle>
+<Subtitle SpotNumber="283" TimeIn="00:14:35:115" TimeOut="00:14:36:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Are they training?</Text>
+</Subtitle>
+<Subtitle SpotNumber="284" TimeIn="00:14:38:031" TimeOut="00:14:38:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I don't know.</Text>
+</Subtitle>
+<Subtitle SpotNumber="285" TimeIn="00:14:42:167" TimeOut="00:14:44:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Next time,make sure you have your keys with you.</Text>
+</Subtitle>
+<Subtitle SpotNumber="286" TimeIn="00:14:50:000" TimeOut="00:14:50:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Chen Minghan.</Text>
+</Subtitle>
+<Subtitle SpotNumber="287" TimeIn="00:14:51:156" TimeOut="00:14:52:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Who is it?</Text>
+</Subtitle>
+<Subtitle SpotNumber="288" TimeIn="00:14:53:000" TimeOut="00:14:53:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">My elder sister.</Text>
+</Subtitle>
+<Subtitle SpotNumber="289" TimeIn="00:15:22:052" TimeOut="00:15:24:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You are good, kid.</Text>
+</Subtitle>
+<Subtitle SpotNumber="290" TimeIn="00:15:33:083" TimeOut="00:15:35:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You sure have a firm butt.</Text>
+</Subtitle>
+<Subtitle SpotNumber="291" TimeIn="00:15:36:042" TimeOut="00:15:36:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="292" TimeIn="00:15:36:208" TimeOut="00:15:37:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Why did you kick me?</Text>
+</Subtitle>
+<Subtitle SpotNumber="293" TimeIn="00:15:37:198" TimeOut="00:15:39:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">To buy you a drink.</Text>
+</Subtitle>
+<Subtitle SpotNumber="294" TimeIn="00:15:41:208" TimeOut="00:15:42:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="295" TimeIn="00:15:42:187" TimeOut="00:15:43:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Don't go.</Text>
+</Subtitle>
+<Subtitle SpotNumber="296" TimeIn="00:15:43:208" TimeOut="00:15:45:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Buy me a drink.</Text>
+</Subtitle>
+<Subtitle SpotNumber="297" TimeIn="00:15:49:208" TimeOut="00:15:50:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Are you blind?</Text>
+</Subtitle>
+<Subtitle SpotNumber="298" TimeIn="00:15:51:208" TimeOut="00:15:53:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You are the one who is blind.</Text>
+</Subtitle>
+<Subtitle SpotNumber="299" TimeIn="00:15:55:052" TimeOut="00:15:55:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What are you doing?</Text>
+</Subtitle>
+<Subtitle SpotNumber="300" TimeIn="00:15:56:177" TimeOut="00:15:57:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">We want to train.</Text>
+</Subtitle>
+<Subtitle SpotNumber="301" TimeIn="00:15:58:104" TimeOut="00:15:59:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">We are training today.</Text>
+</Subtitle>
+<Subtitle SpotNumber="302" TimeIn="00:15:59:187" TimeOut="00:16:01:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You don't even have a coach.</Text>
+</Subtitle>
+<Subtitle SpotNumber="303" TimeIn="00:16:01:052" TimeOut="00:16:02:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What are you doing in the pool?</Text>
+</Subtitle>
+<Subtitle SpotNumber="304" TimeIn="00:16:02:167" TimeOut="00:16:03:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Hurry up and leave.</Text>
+</Subtitle>
+<Subtitle SpotNumber="305" TimeIn="00:16:03:146" TimeOut="00:16:04:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Kou Zi.</Text>
+</Subtitle>
+<Subtitle SpotNumber="306" TimeIn="00:16:05:083" TimeOut="00:16:06:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Talk to him nicely.</Text>
+</Subtitle>
+<Subtitle SpotNumber="307" TimeIn="00:16:11:146" TimeOut="00:16:12:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Hello.</Text>
+</Subtitle>
+<Subtitle SpotNumber="308" TimeIn="00:16:12:094" TimeOut="00:16:13:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'm the captain of the swimming team.</Text>
+</Subtitle>
+<Subtitle SpotNumber="309" TimeIn="00:16:14:135" TimeOut="00:16:15:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Is your captain here?</Text>
+</Subtitle>
+<Subtitle SpotNumber="310" TimeIn="00:16:15:240" TimeOut="00:16:16:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What do you want?</Text>
+</Subtitle>
+<Subtitle SpotNumber="311" TimeIn="00:16:16:229" TimeOut="00:16:18:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I have something to discuss with him.</Text>
+</Subtitle>
+<Subtitle SpotNumber="312" TimeIn="00:16:18:083" TimeOut="00:16:19:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You can talk to me.</Text>
+</Subtitle>
+<Subtitle SpotNumber="313" TimeIn="00:16:20:240" TimeOut="00:16:22:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Why can't you talk to me?</Text>
+</Subtitle>
+<Subtitle SpotNumber="314" TimeIn="00:16:22:104" TimeOut="00:16:23:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What's wrong, Ququ?</Text>
+</Subtitle>
+<Subtitle SpotNumber="315" TimeIn="00:16:24:010" TimeOut="00:16:24:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">This is our captain.</Text>
+</Subtitle>
+<Subtitle SpotNumber="316" TimeIn="00:16:25:052" TimeOut="00:16:25:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Say it then.</Text>
+</Subtitle>
+<Subtitle SpotNumber="317" TimeIn="00:16:26:042" TimeOut="00:16:26:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The thing is,</Text>
+</Subtitle>
+<Subtitle SpotNumber="318" TimeIn="00:16:27:031" TimeOut="00:16:28:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">we are entering a competition.</Text>
+</Subtitle>
+<Subtitle SpotNumber="319" TimeIn="00:16:28:115" TimeOut="00:16:30:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Right now,our training time is tight.</Text>
+</Subtitle>
+<Subtitle SpotNumber="320" TimeIn="00:16:30:219" TimeOut="00:16:32:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You don't have a coach either.</Text>
+</Subtitle>
+<Subtitle SpotNumber="321" TimeIn="00:16:32:115" TimeOut="00:16:34:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let us use the pool first.</Text>
+</Subtitle>
+<Subtitle SpotNumber="322" TimeIn="00:16:34:146" TimeOut="00:16:35:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Okay?</Text>
+</Subtitle>
+<Subtitle SpotNumber="323" TimeIn="00:16:37:083" TimeOut="00:16:38:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Thank you.</Text>
+</Subtitle>
+<Subtitle SpotNumber="324" TimeIn="00:16:39:094" TimeOut="00:16:40:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's go and train.</Text>
+</Subtitle>
+<Subtitle SpotNumber="325" TimeIn="00:16:46:177" TimeOut="00:16:48:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Why do you get the final say?</Text>
+</Subtitle>
+<Subtitle SpotNumber="326" TimeIn="00:16:49:083" TimeOut="00:16:50:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Or what?</Text>
+</Subtitle>
+<Subtitle SpotNumber="327" TimeIn="00:16:50:135" TimeOut="00:16:52:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Should we leave it for you to learn synchronized swimming?</Text>
+</Subtitle>
+<Subtitle SpotNumber="328" TimeIn="00:16:53:000" TimeOut="00:16:54:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Shake your butt.</Text>
+</Subtitle>
+<Subtitle SpotNumber="329" TimeIn="00:16:54:094" TimeOut="00:16:55:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Shake your upper body.</Text>
+</Subtitle>
+<Subtitle SpotNumber="330" TimeIn="00:16:55:187" TimeOut="00:16:57:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">How sissy is that?</Text>
+</Subtitle>
+<Subtitle SpotNumber="331" TimeIn="00:16:57:083" TimeOut="00:16:58:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Stop right there!</Text>
+</Subtitle>
+<Subtitle SpotNumber="332" TimeIn="00:17:00:198" TimeOut="00:17:01:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do you want a one on one fight?</Text>
+</Subtitle>
+<Subtitle SpotNumber="333" TimeIn="00:17:02:010" TimeOut="00:17:02:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Sure.</Text>
+</Subtitle>
+<Subtitle SpotNumber="334" TimeIn="00:17:02:208" TimeOut="00:17:03:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do you dare to have a swimming race?</Text>
+</Subtitle>
+<Subtitle SpotNumber="335" TimeIn="00:17:04:000" TimeOut="00:17:04:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Yes.</Text>
+</Subtitle>
+<Subtitle SpotNumber="336" TimeIn="00:17:05:031" TimeOut="00:17:05:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The loser will have to leave.</Text>
+</Subtitle>
+<Subtitle SpotNumber="337" TimeIn="00:17:05:240" TimeOut="00:17:07:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The loser has to get lost.</Text>
+</Subtitle>
+<Subtitle SpotNumber="338" TimeIn="00:17:07:052" TimeOut="00:17:07:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="339" TimeIn="00:17:07:167" TimeOut="00:17:08:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="340" TimeIn="00:17:08:031" TimeOut="00:17:08:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="341" TimeIn="00:17:08:135" TimeOut="00:17:09:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="342" TimeIn="00:17:09:010" TimeOut="00:17:09:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on!</Text>
+</Subtitle>
+<Subtitle SpotNumber="343" TimeIn="00:17:09:167" TimeOut="00:17:10:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Zhang Wei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="344" TimeIn="00:17:13:167" TimeOut="00:17:14:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do it!</Text>
+</Subtitle>
+<Subtitle SpotNumber="345" TimeIn="00:17:15:146" TimeOut="00:17:16:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Don't give me that.</Text>
+</Subtitle>
+<Subtitle SpotNumber="346" TimeIn="00:17:16:104" TimeOut="00:17:17:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You are the captain.</Text>
+</Subtitle>
+<Subtitle SpotNumber="347" TimeIn="00:17:17:052" TimeOut="00:17:18:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Destroy him.</Text>
+</Subtitle>
+<Subtitle SpotNumber="348" TimeIn="00:17:21:219" TimeOut="00:17:22:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Kou Zi.</Text>
+</Subtitle>
+<Subtitle SpotNumber="349" TimeIn="00:17:22:135" TimeOut="00:17:23:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Leave them alone.</Text>
+</Subtitle>
+<Subtitle SpotNumber="350" TimeIn="00:17:24:094" TimeOut="00:17:25:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Xiaochong.</Text>
+</Subtitle>
+<Subtitle SpotNumber="351" TimeIn="00:17:26:062" TimeOut="00:17:26:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You should go.</Text>
+</Subtitle>
+<Subtitle SpotNumber="352" TimeIn="00:17:29:208" TimeOut="00:17:30:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You can do it, Captain!</Text>
+</Subtitle>
+<Subtitle SpotNumber="353" TimeIn="00:17:30:135" TimeOut="00:17:31:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on,</Text>
+</Subtitle>
+<Subtitle SpotNumber="354" TimeIn="00:17:31:062" TimeOut="00:17:32:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That's more than enough.</Text>
+</Subtitle>
+<Subtitle SpotNumber="355" TimeIn="00:17:34:094" TimeOut="00:17:35:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Ready.</Text>
+</Subtitle>
+<Subtitle SpotNumber="356" TimeIn="00:17:37:187" TimeOut="00:17:38:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on!</Text>
+</Subtitle>
+<Subtitle SpotNumber="357" TimeIn="00:17:39:062" TimeOut="00:17:41:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Captain!Come on!</Text>
+</Subtitle>
+<Subtitle SpotNumber="358" TimeIn="00:17:48:021" TimeOut="00:17:49:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Hurry up, Zhang Wei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="359" TimeIn="00:17:58:198" TimeOut="00:17:59:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What's wrong, Zhang Wei?</Text>
+</Subtitle>
+<Subtitle SpotNumber="360" TimeIn="00:18:01:073" TimeOut="00:18:02:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Why did you climb up there?</Text>
+</Subtitle>
+<Subtitle SpotNumber="361" TimeIn="00:18:03:083" TimeOut="00:18:04:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What's happening?</Text>
+</Subtitle>
+<Subtitle SpotNumber="362" TimeIn="00:18:05:010" TimeOut="00:18:06:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What's wrong with you, Zhang Wei?</Text>
+</Subtitle>
+<Subtitle SpotNumber="363" TimeIn="00:18:06:219" TimeOut="00:18:07:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He has a cramp!</Text>
+</Subtitle>
+<Subtitle SpotNumber="364" TimeIn="00:18:07:240" TimeOut="00:18:08:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You can't do it, can you?</Text>
+</Subtitle>
+<Subtitle SpotNumber="365" TimeIn="00:18:09:031" TimeOut="00:18:10:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Who can't do it?</Text>
+</Subtitle>
+<Subtitle SpotNumber="366" TimeIn="00:18:10:031" TimeOut="00:18:11:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He can't do it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="367" TimeIn="00:18:11:031" TimeOut="00:18:12:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Can you do it?</Text>
+</Subtitle>
+<Subtitle SpotNumber="368" TimeIn="00:18:12:073" TimeOut="00:18:12:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I can do it.</Text>
+</Subtitle>
+<Subtitle SpotNumber="369" TimeIn="00:18:12:167" TimeOut="00:18:13:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do you dare to compete with us?</Text>
+</Subtitle>
+<Subtitle SpotNumber="370" TimeIn="00:18:13:208" TimeOut="00:18:14:052" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on.</Text>
+</Subtitle>
+<Subtitle SpotNumber="371" TimeIn="00:18:14:052" TimeOut="00:18:14:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Do you dare to compete with us?</Text>
+</Subtitle>
+<Subtitle SpotNumber="372" TimeIn="00:18:14:219" TimeOut="00:18:15:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on! Let's go!</Text>
+</Subtitle>
+<Subtitle SpotNumber="373" TimeIn="00:18:15:125" TimeOut="00:18:16:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Anyone of you.</Text>
+</Subtitle>
+<Subtitle SpotNumber="374" TimeIn="00:18:16:104" TimeOut="00:18:16:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come on!</Text>
+</Subtitle>
+<Subtitle SpotNumber="375" TimeIn="00:18:16:240" TimeOut="00:18:17:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Ready.</Text>
+</Subtitle>
+<Subtitle SpotNumber="376" TimeIn="00:18:17:062" TimeOut="00:18:18:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Aren't you being unreasonable?</Text>
+</Subtitle>
+<Subtitle SpotNumber="377" TimeIn="00:18:19:021" TimeOut="00:18:19:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's go.</Text>
+</Subtitle>
+<Subtitle SpotNumber="378" TimeIn="00:18:25:104" TimeOut="00:18:26:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Captain of the swimming team,</Text>
+</Subtitle>
+<Subtitle SpotNumber="379" TimeIn="00:18:27:031" TimeOut="00:18:28:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">let's race.</Text>
+</Subtitle>
+<Subtitle SpotNumber="380" TimeIn="00:18:30:042" TimeOut="00:18:30:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">What?</Text>
+</Subtitle>
+<Subtitle SpotNumber="381" TimeIn="00:18:31:115" TimeOut="00:18:32:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's race.</Text>
+</Subtitle>
+<Subtitle SpotNumber="382" TimeIn="00:18:34:073" TimeOut="00:18:34:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Excuse me.</Text>
+</Subtitle>
+<Subtitle SpotNumber="383" TimeIn="00:18:35:031" TimeOut="00:18:36:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">This is going on forever.</Text>
+</Subtitle>
+<Subtitle SpotNumber="384" TimeIn="00:18:37:042" TimeOut="00:18:38:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Choose between 100 and 200 m.</Text>
+</Subtitle>
+<Subtitle SpotNumber="385" TimeIn="00:18:41:177" TimeOut="00:18:42:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">All right.</Text>
+</Subtitle>
+<Subtitle SpotNumber="386" TimeIn="00:18:42:125" TimeOut="00:18:43:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">200 m.</Text>
+</Subtitle>
+<Subtitle SpotNumber="387" TimeIn="00:18:43:177" TimeOut="00:18:45:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You really have to leave if you lose this time.</Text>
+</Subtitle>
+<Subtitle SpotNumber="388" TimeIn="00:19:05:177" TimeOut="00:19:07:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">On your mark.</Text>
+</Subtitle>
+<Subtitle SpotNumber="389" TimeIn="00:19:13:198" TimeOut="00:19:15:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Get set.</Text>
+</Subtitle>
+<Subtitle SpotNumber="390" TimeIn="00:19:31:021" TimeOut="00:19:32:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Go for it!</Text>
+</Subtitle>
+<Subtitle SpotNumber="391" TimeIn="00:19:32:083" TimeOut="00:19:34:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Gao Fei,Go for it!</Text>
+</Subtitle>
+<Subtitle SpotNumber="392" TimeIn="00:19:47:115" TimeOut="00:19:49:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Gao Fei! We're leading!</Text>
+</Subtitle>
+<Subtitle SpotNumber="393" TimeIn="00:19:50:156" TimeOut="00:19:52:208" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That's incredible!</Text>
+</Subtitle>
+<Subtitle SpotNumber="394" TimeIn="00:20:17:219" TimeOut="00:20:19:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Stay strong, Gao Fei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="395" TimeIn="00:20:19:000" TimeOut="00:20:19:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Stay strong,</Text>
+</Subtitle>
+<Subtitle SpotNumber="396" TimeIn="00:20:22:062" TimeOut="00:20:23:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">The captain is overtaking you.</Text>
+</Subtitle>
+<Subtitle SpotNumber="397" TimeIn="00:20:23:156" TimeOut="00:20:25:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Nicely done!</Text>
+</Subtitle>
+<Subtitle SpotNumber="398" TimeIn="00:20:29:229" TimeOut="00:20:30:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Rise powerfully!</Text>
+</Subtitle>
+<Subtitle SpotNumber="399" TimeIn="00:20:30:125" TimeOut="00:20:31:031" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Soar to the top!</Text>
+</Subtitle>
+<Subtitle SpotNumber="400" TimeIn="00:20:31:073" TimeOut="00:20:31:167" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Steady,</Text>
+</Subtitle>
+<Subtitle SpotNumber="401" TimeIn="00:20:31:167" TimeOut="00:20:32:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Soar to the top, Gao Fei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="402" TimeIn="00:20:58:021" TimeOut="00:20:59:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Gao Fei! Go for it, Gao Fei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="403" TimeIn="00:20:59:208" TimeOut="00:21:01:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Come forward, Gao Fei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="404" TimeIn="00:21:01:083" TimeOut="00:21:02:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Sprint forward!</Text>
+</Subtitle>
+<Subtitle SpotNumber="405" TimeIn="00:21:02:042" TimeOut="00:21:03:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Keep steady!</Text>
+</Subtitle>
+<Subtitle SpotNumber="406" TimeIn="00:21:11:177" TimeOut="00:21:12:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That's amazing.</Text>
+</Subtitle>
+<Subtitle SpotNumber="407" TimeIn="00:21:14:104" TimeOut="00:21:16:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That's amazing, Gao Fei!</Text>
+</Subtitle>
+<Subtitle SpotNumber="408" TimeIn="00:21:16:052" TimeOut="00:21:17:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That's awesome!</Text>
+</Subtitle>
+<Subtitle SpotNumber="409" TimeIn="00:21:18:010" TimeOut="00:21:19:115" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That's awesome!</Text>
+</Subtitle>
+<Subtitle SpotNumber="410" TimeIn="00:21:28:104" TimeOut="00:21:29:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Is there anyone else who wants a race?</Text>
+</Subtitle>
+<Subtitle SpotNumber="411" TimeIn="00:21:35:094" TimeOut="00:21:36:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Then don't just stand there.</Text>
+</Subtitle>
+<Subtitle SpotNumber="412" TimeIn="00:21:49:052" TimeOut="00:21:50:021" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's go.</Text>
+</Subtitle>
+<Subtitle SpotNumber="413" TimeIn="00:21:54:010" TimeOut="00:21:54:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You are leaving?</Text>
+</Subtitle>
+<Subtitle SpotNumber="414" TimeIn="00:21:55:000" TimeOut="00:21:55:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">It's okay.</Text>
+</Subtitle>
+<Subtitle SpotNumber="415" TimeIn="00:21:55:177" TimeOut="00:21:56:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">That was great.</Text>
+</Subtitle>
+<Subtitle SpotNumber="416" TimeIn="00:21:56:198" TimeOut="00:21:57:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Keep it up.</Text>
+</Subtitle>
+<Subtitle SpotNumber="417" TimeIn="00:21:57:135" TimeOut="00:21:58:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Let's race again next time.</Text>
+</Subtitle>
+<Subtitle SpotNumber="418" TimeIn="00:21:59:000" TimeOut="00:22:00:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Good luck.</Text>
+</Subtitle>
+<Subtitle SpotNumber="419" TimeIn="00:22:01:010" TimeOut="00:22:02:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Gao Fei, you are amazing!</Text>
+</Subtitle>
+<Subtitle SpotNumber="420" TimeIn="00:22:02:208" TimeOut="00:22:03:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Teach me how to swim.</Text>
+</Subtitle>
+<Subtitle SpotNumber="421" TimeIn="00:22:04:042" TimeOut="00:22:05:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Have you trained before?</Text>
+</Subtitle>
+<Subtitle SpotNumber="422" TimeIn="00:22:06:031" TimeOut="00:22:07:135" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Can you teach me?</Text>
+</Subtitle>
+<Subtitle SpotNumber="423" TimeIn="00:22:07:146" TimeOut="00:22:08:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'll buy you a drink.</Text>
+</Subtitle>
+<Subtitle SpotNumber="424" TimeIn="00:22:08:073" TimeOut="00:22:09:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You can choose any drink.</Text>
+</Subtitle>
+<Subtitle SpotNumber="425" TimeIn="00:22:10:062" TimeOut="00:22:11:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Gao Fei. Is that all right?</Text>
+</Subtitle>
+<Subtitle SpotNumber="426" TimeIn="00:22:12:135" TimeOut="00:22:14:000" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">I'll take your silence as a yes.</Text>
+</Subtitle>
+<Subtitle SpotNumber="427" TimeIn="00:22:14:125" TimeOut="00:22:15:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Master.</Text>
+</Subtitle>
+<Subtitle SpotNumber="428" TimeIn="00:22:15:208" TimeOut="00:22:16:219" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He is amazing!</Text>
+</Subtitle>
+<Subtitle SpotNumber="429" TimeIn="00:22:16:219" TimeOut="00:22:17:146" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">He is amazing!</Text>
+</Subtitle>
+<Subtitle SpotNumber="430" TimeIn="00:22:25:229" TimeOut="00:22:27:010" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">A captain</Text>
+</Subtitle>
+<Subtitle SpotNumber="431" TimeIn="00:22:27:167" TimeOut="00:22:29:125" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">should be someone like him.</Text>
+</Subtitle>
+<Subtitle SpotNumber="432" TimeIn="00:22:30:104" TimeOut="00:22:31:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">They want to rob our territory?</Text>
+</Subtitle>
+<Subtitle SpotNumber="433" TimeIn="00:22:31:198" TimeOut="00:22:32:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Go against them.</Text>
+</Subtitle>
+<Subtitle SpotNumber="434" TimeIn="00:22:32:198" TimeOut="00:22:33:229" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">We won't give in to anyone.</Text>
+</Subtitle>
+<Subtitle SpotNumber="435" TimeIn="00:22:34:062" TimeOut="00:22:34:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Our synchronized swimming team</Text>
+</Subtitle>
+<Subtitle SpotNumber="436" TimeIn="00:22:35:031" TimeOut="00:22:37:094" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">must not panic and must stay together.</Text>
+</Subtitle>
+<Subtitle SpotNumber="437" TimeIn="00:22:37:167" TimeOut="00:22:38:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You are the captain.</Text>
+</Subtitle>
+<Subtitle SpotNumber="438" TimeIn="00:22:39:031" TimeOut="00:22:39:240" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">No matter what happens,</Text>
+</Subtitle>
+<Subtitle SpotNumber="439" TimeIn="00:22:40:021" TimeOut="00:22:41:062" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">you have to hang in there.</Text>
+</Subtitle>
+<Subtitle SpotNumber="440" TimeIn="00:22:41:083" TimeOut="00:22:42:104" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">You must know.</Text>
+</Subtitle>
+<Subtitle SpotNumber="441" TimeIn="00:22:42:187" TimeOut="00:22:44:156" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">This will become</Text>
+</Subtitle>
+<Subtitle SpotNumber="442" TimeIn="00:22:44:208" TimeOut="00:22:46:198" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">a very memorable lesson in your life.</Text>
+</Subtitle>
+<Subtitle SpotNumber="443" TimeIn="00:22:47:021" TimeOut="00:22:48:083" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">So you should cherish it,</Text>
+</Subtitle>
+<Subtitle SpotNumber="444" TimeIn="00:22:48:104" TimeOut="00:22:49:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">fight on,</Text>
+</Subtitle>
+<Subtitle SpotNumber="445" TimeIn="00:22:49:094" TimeOut="00:22:49:187" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">and?</Text>
+</Subtitle>
+<Subtitle SpotNumber="446" TimeIn="00:22:53:062" TimeOut="00:22:54:073" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Miss!</Text>
+</Subtitle>
+<Subtitle SpotNumber="447" TimeIn="00:22:54:187" TimeOut="00:22:55:177" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Mr. Kui.</Text>
+</Subtitle>
+<Subtitle SpotNumber="448" TimeIn="00:22:58:062" TimeOut="00:22:59:042" FadeUpTime="0" FadeDownTime="2">
+<Text VAlign="center" HAlign="center" VPosition="0.0" HPosition="0.0" Direction="horizontal">Hello?</Text>
+</Subtitle>
+</Font>
+</DCSubtitle>
